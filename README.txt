@@ -1,5 +1,8 @@
-Building a structured dataset to encode social policies for COVID-19 response.
-
-1. The user interface to capture structured policies from this taxonomy aggregated by USA county at first. [Adesh]
-2. Export data into a single file suitable for data science and modeling. [Dani]
-3. User interface for visualizing county-level data. [Senan]
+Our team from Hikma Health is crowdsourcing and producing a structured dataset with visualizations to encode and represent the social policies enacted for COVID-19 response. This project includes the following components:
+ 
+1. A novel user interface to capture structured policies aggregated by US county. [Adesh Kadambi]
+2. Export data on county-level policies into a single file suitable for data science use. [Dani Kiyasseh]
+3. A secondary user interface for visualizing county-level data on a US map. [Senan Ebrahim]
+ 
+A proof of concept of our map with county-level data displayed on hovering over the county of interest:
+https://jsfiddle.net/9qye0Lb6/3/
