@@ -6,3 +6,11 @@ Our team from Hikma Health is crowdsourcing and producing a structured dataset w
  
 A proof of concept of our map with county-level data displayed on hovering over the county of interest:
 https://jsfiddle.net/9qye0Lb6/3/
+
+The frontend system is still a work in progress and has been conceptualized with the wireframes below:
+
+1. Landing page for the web application.
+![Landing Page](home.png)
+
+2. Survey form submission.
+![Survey](form.png)
