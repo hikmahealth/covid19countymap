@@ -5,7 +5,7 @@ Our team from Hikma Health is crowdsourcing and producing a structured dataset w
 3. A secondary user interface for visualizing county-level data on a US map. [Senan Ebrahim]
  
 A proof of concept of our map with county-level data displayed on hovering over the county of interest:
-https://jsfiddle.net/9qye0Lb6/3/
+https://jsfiddle.net/aebrahim/vcmd7khq/
 
 The frontend system is still a work in progress and has been conceptualized with the wireframes below:
 
