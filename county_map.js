@@ -1,4 +1,4 @@
-const prefix = "/";
+const prefix = "./";
 var mapStyle = [{
     "elementType": "labels",
     "stylers": [{
