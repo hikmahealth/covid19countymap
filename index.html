@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>COVID-19 Policies by County by Hikma Health</title>
+    </head>
+    <body>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+        <link href="county_map.css" rel="stylesheet"/>
+        <script src="county_map.js"></script>
+        <div id="data-box" class="nicebox">
+            <div id="state-data">
+                <div id="state-name"></div>
+                <div id="state-policies"></div>
+            </div>
+            <div id="county-data">
+                <div id="county-name"></div>
+                <div id="county-policies"></div>
+            </div>
+        </div>
+        <div id="map"></div>
+        <!-- Replace the value of the key parameter with your own API key. -->
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwi02dFuAtZgneBZBMVQC37XYUfx2BRUY&callback=initMap"></script>
+        
+    </body>
+</html>

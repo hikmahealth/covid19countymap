@@ -1,0 +1,59 @@
+html,
+body,
+#map {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#data-box {
+  position: absolute;
+  text-align: center;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 13px;
+  z-index: 5;
+  box-shadow: 0 4px 6px -4px #333;
+  padding: 5px 10px;
+  background: rgb(255, 255, 255);
+  border: rgb(229, 229, 229) 1px solid;
+  top: 10px;
+  left: 30px;
+  width: 600px;
+  height: 200px;
+}
+
+#state-data {
+  float: left;
+  width: 50%;
+}
+
+#county-data {
+  margin-left: 50%;
+}
+
+.inactive-policy {
+  /* red */
+  color: #F27474;
+}
+
+.partial-policy {
+  /* yellow */
+  color: #F2A35E;
+}
+
+.active-policy {
+  /* green */
+  color: #B2D9A0;
+}
+
+.unknown-policy {
+  /* grey */
+  color: #808080;
+}
+
+.policy-line {
+  float: left;
+  display: inline-flex;
+  vertical-align: bottom;
+}
