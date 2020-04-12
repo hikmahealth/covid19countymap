@@ -91,7 +91,9 @@ function initMap() {
     zoom: 4,
     styles: mapStyle,
     mapTypeControl: false,
+    rotateControl: false,
     streetViewControl: false,
+    fullscreenControl: false,
   });
 
   // set up the style rules and events for google.maps.Data
