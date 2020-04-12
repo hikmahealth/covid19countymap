@@ -79,7 +79,6 @@ var map;
 var stateNames = {};
 var countyPolicies = {};
 var statePolicies = {};
-var policyDecoders = {};
 
 
 function initMap() {
@@ -110,7 +109,6 @@ function initMap() {
   backgroundLoad(stateNames, 'state_names.json');
   backgroundLoad(countyPolicies, 'county_policies.json');
   backgroundLoad(statePolicies, 'state_policies.json');
-  backgroundLoad(policyDecoders, 'policy_decoders.json');
 }
 
 function styleFeature(feature) {
