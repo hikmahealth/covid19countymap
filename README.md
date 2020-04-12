@@ -3,9 +3,8 @@ Our team from Hikma Health is crowdsourcing and producing a structured dataset w
 1. A novel user interface to capture crowdsourced policies by US county. [Adesh Kadambi, Melecia Wright, Henry Ashworth]
 2. Open-source data on county-level policies into a single file suitable for data science use. [Dani Kiyasseh, Tara Pattilachan]
 3. A US map based user interface for visualizing county-level data. [Ali Ebrahim, Adesh Kadambi, Senan Ebrahim]
- 
-A proof of concept of our map with county-level data displayed on hovering over the county of interest:
-https://jsfiddle.net/aebrahim/vcmd7khq/
+
+The map can be viewered [here](https://hikmahealth.github.io/covid19countymap). 
 
 The frontend system is still a work in progress and has been conceptualized with the wireframes below:
 
