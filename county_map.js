@@ -79,6 +79,8 @@ var map;
 var stateNames = {};
 var countyPolicies = {};
 var statePolicies = {};
+var countyCases = {};
+var stateCases = {};
 
 
 function initMap() {
@@ -111,6 +113,8 @@ function initMap() {
   backgroundLoad(stateNames, 'state_names.json');
   backgroundLoad(countyPolicies, 'county_policies.json');
   backgroundLoad(statePolicies, 'state_policies.json');
+  backgroundLoad(countyCases, 'county_cases.json');
+  backgroundLoad(stateCases, 'state_cases.json');
 }
 
 function styleFeature(feature) {
@@ -194,8 +198,9 @@ function makeIcon(policyName, policy) {
   return i;
 }
 
-function displayPolicies(div, policy, id) {
+function displayPolicies(div, id, is_state) {
   div.innerHTML = null;
+  const policy = (is_state ? statePolicies[id]: countyPolicies[id]);
   if (policy == null) {
     return false;
   }
@@ -209,7 +214,7 @@ function displayPolicies(div, policy, id) {
     policyDiv.appendChild(text);
     text.appendChild(icon);
     activityStr = policyActivity(policyDim, policy)
-    text.innerHTML += policyNames[policyDim] + ":&nbsp";
+    text.innerHTML += policyNames[policyDim] + ":&nbsp;";
     evidence = policy[policyDim + "_url"];
     if (evidence != null && evidence != "") {
       a = document.createElement("a");
@@ -222,10 +227,43 @@ function displayPolicies(div, policy, id) {
     }
     date = policy[policyDim + "_date"];
     if (date != null && date != "") {
-      text.innerHTML += "&nbspsince&nbsp" + date;
+      text.innerHTML += "&nbsp;since&nbsp;" + date;
     }
   }
   return true;
+}
+
+function displayInfoBox(fips_id, is_state, feature) {
+  policy_div = document.getElementById(is_state ? 'state-policies' : 'county-policies');
+  const hasPolicies = displayPolicies(policy_div, fips_id, is_state);
+  if (!hasPolicies && !is_state) {
+    // Link to the form for data entry if a county has no data.
+    var editText = document.createElement("a");
+    var i = document.createElement("i");
+    i.className = "material-icons";
+    i.innerText = "create";
+    editText.appendChild(i);
+    editText.href = "https://docs.google.com/forms/d/e/1FAIpQLScO4B6PkJsOeVKM2_dbpFMhnXCfb89Kya9bWtKX4uUWIMev7Q/viewform?usp=pp_url&entry.1112165839=";
+    editText.href += encodeURI(feature.j.name + ' County, ' + stateNames[feature.j.state_id]);
+    editText.target = "_blank";
+    editText.innerHTML += "Submit data for this county!"
+    policy_div.appendChild(editText);
+  }
+  // Display cases count from the NYT.
+  const cases = (is_state ? stateCases[fips_id]: countyCases[fips_id]);
+  if (cases == null) return;
+  casesDiv = document.createElement("div");
+  casesDiv.className = "cases";
+  policy_div.appendChild(casesDiv);
+  text = document.createElement("span");
+  text.className = "policy-line";
+  casesDiv.appendChild(text);
+  text.innerHTML = "Cases: " + cases.cases.toString() + " since&nbsp;";
+  a = document.createElement("a");
+  a.href = "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html";
+  a.target = "_blank";
+  a.innerText = cases.date;
+  text.appendChild(a);
 }
 
 function clickOnRegion(e) {
@@ -233,17 +271,6 @@ function clickOnRegion(e) {
   const state_id = e.feature.j.state_id;
   document.getElementById("state-name").textContent = stateNames[state_id];
   document.getElementById("county-name").textContent = e.feature.j.name + ' County ';
-  if (!displayPolicies(document.getElementById('county-policies'), countyPolicies[fips_id], fips_id)) {
-    var editText = document.createElement("a");
-    var i = document.createElement("i");
-    i.className = "material-icons";
-    i.innerText = "create";
-    editText.appendChild(i);
-    editText.href = "https://docs.google.com/forms/d/e/1FAIpQLScO4B6PkJsOeVKM2_dbpFMhnXCfb89Kya9bWtKX4uUWIMev7Q/viewform?usp=pp_url&entry.1112165839=";
-    editText.href += encodeURI(e.feature.j.name + ' County, ' + stateNames[state_id]);
-    editText.target = "_blank";
-    editText.innerHTML += "Submit data for this county!"
-    document.getElementById('county-policies').appendChild(editText);
-  }
-  displayPolicies(document.getElementById('state-policies'), statePolicies[state_id], state_id);
+  displayInfoBox(fips_id, false, e.feature);
+  displayInfoBox(state_id, true, e.feature);
 }

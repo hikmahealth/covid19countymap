@@ -57,3 +57,8 @@ body,
   display: inline-flex;
   vertical-align: bottom;
 }
+
+.cases {
+  position: absolute;
+  bottom: 0;
+}
