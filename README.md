@@ -6,18 +6,18 @@ This project contains a crowdsourced map of health policy data, broken down by c
 
 [![Map Screenshot](map.png)](https://hikmahealth.github.io/covid19countymap)
 
-Sources
+Data Sources
 -------
 
 State policy data was obtained from the following [report](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/#policyactions) by the Kaiser Family Foundation.
 
 Cases counts displayed by county were obtained from the [New York Times dataset](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html).
 
-County policy data was manually researched and entered into a web form.
+County policy data was manually researched and entered into a web form in a crowdsourcing approach organized by [Hikma Health](https://www.hikmahealth.org/).
 
-Geographic information about the states and counties were obtained from the [United States Census](https://www.census.gov/).
+Demographic and geographic information about  states and counties were obtained from the [United States Census](https://www.census.gov/).
 
-License
+License and Warranty
 -------
 
-All code is licensed under the Apache 2.0 license, as is the dataset for county-level policies. For all other datasets, please see the underlying sources. As a reminder, all code and data are provided as-is with no warranty.
+All code in this repository and the Hikma Health dataset of county-level policies are licensed under the Apache 2.0 license. For all other datasets, please see the underlying sources for license information. As a reminder, all code and data are provided here as-is with no warranty.
