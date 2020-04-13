@@ -17,19 +17,53 @@ body,
   padding: 5px 10px;
   background: rgb(255, 255, 255);
   border: rgb(229, 229, 229) 1px solid;
-  top: 10px;
-  left: 30px;
-  width: 600px;
-  height: 200px;
+  top: 2%;
+  left: 2%;
+  width: 660px;
+  height: auto;
+}
+
+#info-box{
+  position: absolute;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 13px;
+  z-index: 5;
+  box-shadow: 0 4px 6px -4px #333;
+  padding: 5px 10px;
+  background: rgb(255, 255, 255);
+  border: rgb(229, 229, 229) 1px solid;
+  bottom: 2%;
+  left: 2%;
+  width: 10%;
+  height: auto;
+}
+
+#company {
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+#county-name, #state-name {
+  font-weight: bold;
+  text-align: justify;
+  margin-bottom: 2%;
+  font-size: 2vw;
 }
 
 #state-data {
   float: left;
-  width: 50%;
+  width: 40%;
+  margin-bottom: 3%;
 }
 
 #county-data {
-  margin-left: 50%;
+  float: left;
+  margin-left: 3%;
+  margin-bottom: 3%;
+  margin-right: 3%;
 }
 
 .inactive-policy {
@@ -54,6 +88,7 @@ body,
 
 .policy-line {
   float: left;
+  width: 100%;
   display: inline-flex;
   vertical-align: bottom;
 }
@@ -61,4 +96,44 @@ body,
 .cases {
   position: absolute;
   bottom: 0;
+}
+
+/* Tooltip text */
+.cases .cases-tooltip {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.cases .cases-tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.cases:hover .cases-tooltip {
+  visibility: visible;
+  opacity: 1;
 }
