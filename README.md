@@ -1,15 +1,21 @@
-Our team from Hikma Health is crowdsourcing and producing a structured dataset with visualizations to encode and represent the social policies enacted for COVID-19 response. This project includes the following components:
- 
-1. A novel user interface to capture crowdsourced policies by US county. [Adesh Kadambi, Melecia Wright, Henry Ashworth]
-2. Open-source data on county-level policies into a single file suitable for data science use. [Dani Kiyasseh, Tara Pattilachan]
-3. A US map based user interface for visualizing county-level data. [Ali Ebrahim, Adesh Kadambi, Senan Ebrahim]
 
-The map can be viewered [here](https://hikmahealth.github.io/covid19countymap). 
+Overview
+--------
 
-The frontend system is still a work in progress and has been conceptualized with the wireframes below:
+This project contains a crowdsourced map of health policy data, broken down by county. A visual interface to the data is available [here](https://hikmahealth.github.io/covid19countymap). All of the structured data can be downloaded from the [`gh-pages` branch](https://github.com/hikmahealth/covid19countymap/tree/gh-pages), while all of the code to process the data is available as jupyter/colab notebooks on the master branch.
 
-1. Landing page for the web application.
-![Landing Page](home.png)
+Sources
+-------
 
-2. Survey form submission.
-![Survey](form.png)
+State policy data was obtained from the following [report](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/#policyactions) by the Kaiser Family Foundation.
+
+Cases counts displayed by county were obtained from the [New York Times dataset](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html).
+
+County policy data was manually researched and entered into a web form.
+
+Geographic information about the states and counties were obtained from the [United States Census](https://www.census.gov/).
+
+License
+-------
+
+All code is licensed under the Apache 2.0 license, as is the dataset for county-level policies. For all other datasets, please see the underlying sources. As a reminder, all code and data are provided as-is with no warranty.
