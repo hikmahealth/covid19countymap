@@ -130,6 +130,18 @@ function styleFeature(feature) {
   var strokeWeight = 0.08;
   var zIndex = 2;
   var opacity = 0.0;
+  var fillColor = '#F2C879';
+  const score = scorePolicy(countyPolicies[feature.j.fips_id]);
+  if (score != null) {
+      opacity = 0.5;
+      if (score >= 4.5){
+        fillColor = "#B2D9A0";
+      } else if (score >= 3.5) {
+        fillColor = "#F2A35E";
+      } else {
+        fillColor = "#F27474";
+      }
+  }
   if (feature.getProperty('state') === 'hover') {
     strokeWeight = 0.8
     zIndex = 3;
@@ -138,7 +150,7 @@ function styleFeature(feature) {
   return {
     strokeWeight: strokeWeight,
     strokeColor: '#BFB59F',
-    fillColor: '#F2C879',
+    fillColor: fillColor,
     zIndex: zIndex,
     fillOpacity: opacity,
     visible: true,
@@ -181,12 +193,27 @@ function policyActivity(policyName, policy) {
   if (policyValue === 1 || policyValue === false) {
     return "inactive";
   } else if (policyValue == 3 || policyValue === true) {
-    return "active"
+    return "active";
   } else if (policyValue == 2) {
     return "partial";
   } else {
     return "unknown";
   }
+}
+
+function scorePolicy(policy) {
+  if (policy == null) return null;
+  var score = 0.0;
+  for (const policyDim of policies) {
+    const policyValue = policy[policyDim];
+    // Same scale as policyActivity
+    if (policyValue == 3 || policyValue === true) {
+      score += 1;
+    } else if (policyValue == 2) {
+      score += 0.5
+    }
+  }
+  return score;
 }
 
 function makeIcon(policyName, policy) {
