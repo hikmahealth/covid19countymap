@@ -9,14 +9,14 @@ body,
 
 #github {
   position: absolute;
-  z-index: 5;
+  z-index: 4;
   top: 0%;
   left: 100%;
 }
 
 #org{
   position: absolute;
-  z-index: 5;
+  z-index: 4;
   /* Careful not to obscure Google logo. */
   bottom: 26px;
   left: 10px;
