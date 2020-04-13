@@ -54,16 +54,21 @@ body,
   font-weight: bold;
   text-align: justify;
   margin-bottom: 2%;
+  /* Will scale smoothly from 13 - 20 px */
   font-size: 2vw;
 }
 
+@media screen and (max-width: 650px) {
+  #county-name, #state-name {
+    font-size: 13px;
+  }
+}
 
 @media screen and (min-width: 1000px) {
   #county-name, #state-name {
     font-size: 20px;
   }
 }
-
 
 #state-data {
   float: left;
