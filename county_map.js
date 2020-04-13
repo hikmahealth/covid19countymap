@@ -246,7 +246,7 @@ function displayInfoBox(fips_id, is_state, feature) {
     editText.href = "https://docs.google.com/forms/d/e/1FAIpQLScO4B6PkJsOeVKM2_dbpFMhnXCfb89Kya9bWtKX4uUWIMev7Q/viewform?usp=pp_url&entry.1112165839=";
     editText.href += encodeURI(feature.j.name + ' County, ' + stateNames[feature.j.state_id]);
     editText.target = "_blank";
-    editText.innerHTML += "Submit data for this county!"
+    editText.innerHTML += "Submit policy data for this county!"
     policy_div.appendChild(editText);
   }
   // Display cases count from the NYT.
@@ -258,12 +258,19 @@ function displayInfoBox(fips_id, is_state, feature) {
   text = document.createElement("span");
   text.className = "policy-line";
   casesDiv.appendChild(text);
-  text.innerHTML = "Cases: " + cases.cases.toString() + " since&nbsp;";
+  // Link to the site to credit data source.
   a = document.createElement("a");
   a.href = "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html";
   a.target = "_blank";
-  a.innerText = cases.date;
+  a.innerText = "COVID-19 cases";
   text.appendChild(a);
+  text.innerHTML += ":&nbsp;" + cases.cases.toLocaleString() + " (" + cases.deaths.toLocaleString() + " deaths)";
+  // Display date freshness on hover.
+  tooltip = document.createElement("span");
+  tooltip.className = "cases-tooltip";
+  tooltip.innerText = "as of " + cases.date;
+  casesDiv.appendChild(tooltip);
+  
 }
 
 function clickOnRegion(e) {
