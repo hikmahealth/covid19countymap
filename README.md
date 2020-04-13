@@ -19,6 +19,4 @@ Demographic and geographic information about  states and counties were obtained 
 License and Warranty Disclaimer
 -------
 
-All code in this repository and the Hikma Health dataset of county-level policies are licensed under the Apache 2.0 license. For all other datasets, please see the underlying sources for license information. As a reminder, all code and data are provided here "as is" with no warranty, as described below.
-
-ALL PRODUCTS INCLUDING BUT NOT LIMITED TO SOFTWARE, DATA, AND USER DOCUMENTATION ARE PROVIDED HERE FOR USE "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE FULLEST EXTENT PERMITTED BY LAW, HIKMA HEALTH INC. HEREBY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS OR IMPLIED, ORAL OR WRITTEN, INCLUDING WITHOUT LIMITATION, ALL IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, QUIET ENJOYMENT, ACCURACY, INTEGRATION, MERCHANTABILITY, OR FITNESS FOR ANY PARTICULAR PURPOSE, AND ALL WARRANTIES ARISING FROM ANY COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE OF TRADE.
+All code in this repository and the Hikma Health dataset of county-level policies are licensed under the [Apache 2.0 license] (https://github.com/hikmahealth/covid19countymap/blob/master/LICENSE). For all other datasets, please see the underlying sources for license information. As a reminder, all code and data are provided here "as is" with no warranty, as described [here] (https://github.com/hikmahealth/covid19countymap/blob/master/WARRANTY).
