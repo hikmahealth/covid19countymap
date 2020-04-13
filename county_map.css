@@ -23,23 +23,25 @@ body,
   height: auto;
 }
 
-#info-box{
+#org{
   position: absolute;
-  font-family: "Roboto", "Arial", sans-serif;
-  font-size: 13px;
   z-index: 5;
-  box-shadow: 0 4px 6px -4px #333;
-  padding: 5px 10px;
-  background: rgb(255, 255, 255);
-  border: rgb(229, 229, 229) 1px solid;
-  bottom: 2%;
-  left: 2%;
-  width: 10%;
+  /* Careful not to obscure Google logo. */
+  bottom: 26px;
+  left: 10px;
   height: auto;
+  filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.5));
 }
 
-#company, img {
-  width: 100%;
+#github {
+  position: absolute;
+  z-index: 5;
+  top: 0%;
+  left: 100%;
+}
+
+#org, img {
+  width: 66px;
 }
 
 #county-name, #state-name {
