@@ -12,7 +12,7 @@ County policy data was manually researched, entered into a web form, and validat
 
 State policy data was obtained from the following [report](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/#policyactions) by the Kaiser Family Foundation.
 
-Cases counts displayed by county were obtained from the [New York Times dataset](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html).
+Case counts displayed by county were obtained from the [New York Times dataset](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html).
 
 Demographic and geographic information about  states and counties were obtained from the [United States Census](https://www.census.gov/).
 
