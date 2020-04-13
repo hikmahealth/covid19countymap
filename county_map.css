@@ -19,17 +19,18 @@ body,
   border: rgb(229, 229, 229) 1px solid;
   top: 10px;
   left: 30px;
-  width: 600px;
+  width: 660px;
   height: 200px;
 }
 
 #state-data {
   float: left;
-  width: 50%;
+  width: 40%;
 }
 
 #county-data {
-  margin-left: 50%;
+  float: left;
+  margin-left: 3%;
 }
 
 .inactive-policy {
@@ -54,6 +55,7 @@ body,
 
 .policy-line {
   float: left;
+  width: 100%;
   display: inline-flex;
   vertical-align: bottom;
 }
