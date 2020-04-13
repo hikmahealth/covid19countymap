@@ -1,5 +1,13 @@
 # CountymapFrontend
 
+This project is a WIP to generate a data entry UI to replace the current Google form. It has been conceptualized with the wireframes below:
+
+1. Landing page for the web application.
+![Landing Page](home.png)
+
+2. Survey form submission.
+![Survey](form.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## Development server
