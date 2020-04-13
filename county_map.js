@@ -65,15 +65,6 @@ var mapStyle = [{
   }
 ];
 
-function backgroundLoad(obj, json_url) {
-  var xhr = new XMLHttpRequest();
-  xhr.open('GET', prefix + json_url);
-  xhr.onload = function() {
-    Object.assign(obj, JSON.parse(xhr.responseText));
-  };
-  xhr.send();
-}
-
 var map;
 // Global read only data variables.
 var stateNames = {};
@@ -82,6 +73,14 @@ var statePolicies = {};
 var countyCases = {};
 var stateCases = {};
 
+function fetchGlobalData(obj, json_url) {
+  return fetch(prefix + json_url)
+  .then((response)=> { return response.json(); })
+  .then((data) => {
+    Object.assign(obj, data);
+    return true;
+  });
+}
 
 function initMap() {
   // load the map
@@ -102,19 +101,34 @@ function initMap() {
   map.data.setStyle(styleFeature);
   map.data.addListener('mouseover', mouseInToRegion);
   map.data.addListener('mouseout', mouseOutOfRegion);
-  map.data.addListener('click', clickOnRegion);
-
-  map.data.loadGeoJson(prefix + 'counties.json', {
-    idPropertyName: 'AFFGEOID'
+  // Onclick will only be subscribed after all data has loaded.
+  const geoJsonOpts = {idPropertyName: 'AFFGEOID'};
+  // Load all the map data.
+  // States are not conditionally styled so they are not blocked by data.
+  // This way the states show up on the map quickly while we wait for the
+  // larger counties to load.
+  statePS = fetch(prefix + 'states.json')
+  .then((response)=> { return response.json(); })
+  .then((data) => { map.data.addGeoJson(data, geoJsonOpts); });
+  // To avoid race, ensure policies are loaded so that styling will succeed
+  // before rendering any counties.
+  countyPS = Promise.all([
+    fetch(prefix + 'counties.json').then((response) => { return response.json(); }),
+    fetchGlobalData(countyPolicies, 'county_policies.json'),
+    fetchGlobalData(statePolicies, 'state_policies.json'),
+    ]).then((data) => {
+    map.data.addGeoJson(data[0], geoJsonOpts);
   });
-  map.data.loadGeoJson(prefix + 'states.json', {
-    idPropertyName: 'AFFGEOID'
+  // Ensure all data is loaded before registering onclick handler.
+  Promise.all([
+    statePS, countyPS,
+    fetchGlobalData(stateNames, 'state_names.json'),
+    fetchGlobalData(stateCases, 'state_cases.json'),
+    fetchGlobalData(countyCases, 'county_cases.json')
+  ])
+  .then((response) => {
+    map.data.addListener('click', clickOnRegion);
   });
-  backgroundLoad(stateNames, 'state_names.json');
-  backgroundLoad(countyPolicies, 'county_policies.json');
-  backgroundLoad(statePolicies, 'state_policies.json');
-  backgroundLoad(countyCases, 'county_cases.json');
-  backgroundLoad(stateCases, 'state_cases.json');
 }
 
 function styleFeature(feature) {
@@ -226,7 +240,7 @@ function makeIcon(policyName, policy) {
 }
 
 function displayPolicies(div, id, is_state) {
-  div.innerHTML = null;
+  div.innerHTML = "";
   const policy = (is_state ? statePolicies[id]: countyPolicies[id]);
   if (policy == null) {
     return false;
@@ -297,7 +311,6 @@ function displayInfoBox(fips_id, is_state, feature) {
   tooltip.className = "cases-tooltip";
   tooltip.innerText = "as of " + cases.date;
   casesDiv.appendChild(tooltip);
-  
 }
 
 function clickOnRegion(e) {
