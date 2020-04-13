@@ -38,11 +38,7 @@ body,
   height: auto;
 }
 
-#company {
-  width: 100%;
-}
-
-img {
+#company, img {
   width: 100%;
 }
 
