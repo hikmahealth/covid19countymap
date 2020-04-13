@@ -23,6 +23,13 @@ body,
   height: auto;
 }
 
+#github {
+  position: absolute;
+  z-index: 5;
+  top: 0%;
+  left: 100%;
+}
+
 #org{
   position: absolute;
   z-index: 5;
@@ -33,11 +40,10 @@ body,
   filter: drop-shadow(0px 0px 5px rgba(255, 255, 255, 0.5));
 }
 
-#github {
-  position: absolute;
-  z-index: 5;
-  top: 0%;
-  left: 100%;
+@media screen and (max-height: 250px) {
+  #org {
+    visibility: hidden;
+  }
 }
 
 #org, img {
@@ -50,6 +56,14 @@ body,
   margin-bottom: 2%;
   font-size: 2vw;
 }
+
+
+@media screen and (min-width: 1000px) {
+  #county-name, #state-name {
+    font-size: 20px;
+  }
+}
+
 
 #state-data {
   float: left;
