@@ -20,3 +20,7 @@ License and Warranty Disclaimer
 -------
 
 All code in this repository and the Hikma Health dataset of county-level policies are licensed under the [Apache 2.0 license](https://github.com/hikmahealth/covid19countymap/blob/master/LICENSE). For all other datasets, please see the underlying sources for license information. As a reminder, all code and data are provided here "as is" with no warranty, as described [here](https://github.com/hikmahealth/covid19countymap/blob/master/WARRANTY).
+
+Acknowledgements
+-------
+We are grateful to the following volunteers for researching county data to help construct this dataset: Henry Ashworth, Anna Buford, Ali Ebrahim, Hassaan Ebrahim, Senan Ebrahim, Adesh Kadambi, Dani Kiyasseh, Cray Noah, Tara Pattilachan, Arpi Tavil-Shatelyan, and Melecia Wright. 
