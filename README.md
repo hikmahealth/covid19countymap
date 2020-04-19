@@ -23,4 +23,4 @@ All code in this repository and the Hikma Health dataset of county-level policie
 
 Acknowledgements
 -------
-We are grateful to the following volunteers for researching county data to help construct this dataset: Henry Ashworth, Anna Buford, Ali Ebrahim, Hassaan Ebrahim, Senan Ebrahim, Adesh Kadambi, Dani Kiyasseh, John Laydon, Becky Mer, Cray Noah, Tara Pattilachan, Jessica Redmond, Arpi Tavil-Shatelyan, and Melecia Wright. 
+We are grateful to the following volunteers for researching county data to help construct this dataset: Henry Ashworth, Anna Buford, Linnea Champ, Ali Ebrahim, Hassaan Ebrahim, Senan Ebrahim, Daniel Estupinian, Adesh Kadambi, Bina Kassamali, Dani Kiyasseh, John Laydon, Chase Marso, Becky Mer, Cray Noah, Wesley Noah, Tara Pattilachan, Olivia Plana, Jessica Redmond, Arpi Tavil-Shatelyan, Jeremy Swisher, Dana Vigue, Melecia Wright, and Sonya Ye.
