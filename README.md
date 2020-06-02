@@ -8,7 +8,7 @@ This project contains a crowdsourced map of health policy data in response to CO
 
 Data Sources
 -------
-County policy data was manually researched, entered into a web form, and validated in a crowdsourcing approach organized by [Hikma Health](https://www.hikmahealth.org/). This dataset currently includes policy data from over 900 US counties, comprising over 250 million residents. Recommended citation for this dataset: Senan Ebrahim, Cray Noah, Henry Ashworth, Ali Ebrahim, Adesh Kadambi, Tara Pattilachan, Dani Kiyasseh, Melecia Wright, Eliza Nguyen, and Hassaan Ebrahim (2020). COVID-19 US County Policies, Hikma Health. Data use policy: Apache 2.0 License.
+County policy data was manually researched, entered into a web form, and validated in a crowdsourcing approach organized by [Hikma Health](https://www.hikmahealth.org/). This dataset currently includes policy data from over 1,000 US counties, comprising over 250 million residents. Recommended citation for this dataset: Senan Ebrahim, Cray Noah, Henry Ashworth, Ali Ebrahim, Adesh Kadambi, Tara Pattilachan, Dani Kiyasseh, Melecia Wright, Eliza Nguyen, and Hassaan Ebrahim (2020). COVID-19 US County Policies, Hikma Health. Data use policy: Apache 2.0 License.
 
 State policy data was obtained from the following [report](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/#policyactions) by the Kaiser Family Foundation.
 
