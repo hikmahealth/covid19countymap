@@ -18,6 +18,8 @@ Case counts displayed by county were obtained from the [New York Times dataset](
 
 Demographic and geographic information about  states and counties were obtained from the [United States Census](https://www.census.gov/).
 
+County R estimates are a subset of the estimates made by the models created by Youyang Gu.
+
 License and Warranty Disclaimer
 -------
 
