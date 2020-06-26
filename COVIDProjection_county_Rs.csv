@@ -1,208 +1,102 @@
 ,county_name,fips,combined_subregion,initial_r_0,post_mitigation_r,inflection_date,current_r,cur_date
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.0,2020-03-21,1.06,2020-06-15
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.36,0.8,2020-03-23,0.96,2020-06-15
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.34,0.99,2020-03-12,1.06,2020-06-15
-7,"Orange County, California",6059.0,US-CA-Orange,1.23,1.04,2020-03-24,1.1,2020-06-15
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.4,0.97,2020-03-22,1.06,2020-06-15
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.06,0.71,2020-03-24,0.89,2020-06-15
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.3,0.9,2020-03-23,1.02,2020-06-15
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.23,0.92,2020-03-22,1.04,2020-06-15
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.15,0.76,2020-03-09,0.92,2020-06-15
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.29,0.86,2020-03-21,1.0,2020-06-15
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.36,1.0,2020-03-24,1.08,2020-06-15
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.76,0.85,2020-03-14,0.99,2020-06-15
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.42,0.75,2020-03-23,0.93,2020-06-15
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.81,0.91,2020-03-10,1.05,2020-06-15
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.94,2020-03-12,0.97,2020-06-15
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.66,0.69,2020-03-12,0.83,2020-06-15
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.33,0.85,2020-03-28,0.96,2020-06-15
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.72,0.8,2020-03-30,0.92,2020-06-15
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.89,0.85,2020-03-10,0.94,2020-06-15
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.9,0.87,2020-03-09,0.89,2020-06-15
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.77,0.85,2020-03-12,0.86,2020-06-15
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.91,0.82,2020-03-24,0.92,2020-06-15
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.51,0.87,2020-03-13,1.01,2020-06-15
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.76,0.86,2020-03-17,1.0,2020-06-15
-28,"Nassau County, New York",36059.0,US-NY-Nassau,3.97,0.76,2020-03-11,0.85,2020-06-15
-29,"New York City County, New York",,US-NY-New York City,5.4,0.81,2020-03-08,0.86,2020-06-15
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.34,0.85,2020-03-12,0.93,2020-06-15
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.42,0.72,2020-03-15,0.82,2020-06-15
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.76,0.92,2020-03-14,0.95,2020-06-15
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.32,0.8,2020-03-24,0.94,2020-06-15
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.28,0.97,2020-03-21,0.98,2020-06-15
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.3,0.89,2020-03-22,0.95,2020-06-15
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.16,0.95,2020-03-23,0.99,2020-06-15
-37,"King County, Washington",53033.0,US-WA-King,1.86,0.88,2020-03-05,1.01,2020-06-15
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.09,2020-06-10
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.21,0.78,2020-03-23,0.93,2020-06-10
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.01,2020-06-10
-7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-10
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.53,0.97,2020-03-22,1.07,2020-06-10
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.18,0.66,2020-03-24,0.84,2020-06-10
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.28,0.92,2020-03-23,1.04,2020-06-10
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.32,0.94,2020-03-22,1.06,2020-06-10
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.33,0.75,2020-03-13,0.89,2020-06-10
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.4,0.83,2020-03-21,0.99,2020-06-10
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.36,1.01,2020-03-24,1.09,2020-06-10
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.77,0.86,2020-03-11,1.01,2020-06-10
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.45,0.75,2020-03-23,0.93,2020-06-10
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.37,0.89,2020-03-16,1.04,2020-06-10
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.96,2020-06-10
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.82,2020-06-10
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.96,2020-06-10
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.79,2020-03-31,0.92,2020-06-10
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.55,0.86,2020-03-14,1.01,2020-06-10
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.85,2020-06-10
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.59,0.83,2020-03-16,0.84,2020-06-10
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.09,0.79,2020-03-25,0.95,2020-06-10
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-15,0.99,2020-06-10
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.86,2020-03-17,1.01,2020-06-10
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.91,2020-06-10
-29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.82,2020-06-10
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.17,0.83,2020-03-16,0.99,2020-06-10
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.9,2020-06-10
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.79,0.92,2020-03-14,0.94,2020-06-10
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.92,2020-06-10
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.97,2020-03-21,1.0,2020-06-10
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.35,0.88,2020-03-22,0.96,2020-06-10
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.23,0.95,2020-03-23,1.02,2020-06-10
-37,"King County, Washington",53033.0,US-WA-King,2.3,0.83,2020-03-16,0.94,2020-06-10
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.0,2020-03-21,1.05,2020-06-16
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.36,0.8,2020-03-23,0.96,2020-06-16
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.34,0.99,2020-03-12,1.07,2020-06-16
-7,"Orange County, California",6059.0,US-CA-Orange,1.23,1.04,2020-03-24,1.1,2020-06-16
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.39,0.97,2020-03-22,1.06,2020-06-16
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.07,0.71,2020-03-24,0.89,2020-06-16
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.28,0.89,2020-03-23,1.01,2020-06-16
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.28,0.91,2020-03-22,1.04,2020-06-16
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.15,0.76,2020-03-09,0.93,2020-06-16
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.29,0.85,2020-03-21,0.99,2020-06-16
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.36,1.01,2020-03-24,1.08,2020-06-16
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.76,0.85,2020-03-14,0.99,2020-06-16
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.42,0.75,2020-03-23,0.93,2020-06-16
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.81,0.91,2020-03-10,1.05,2020-06-16
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.94,2020-03-12,0.98,2020-06-16
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.66,0.69,2020-03-11,0.83,2020-06-16
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.34,0.84,2020-03-28,0.96,2020-06-16
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.72,0.8,2020-03-30,0.92,2020-06-16
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.89,0.85,2020-03-10,0.94,2020-06-16
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.9,0.87,2020-03-09,0.9,2020-06-16
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.77,0.85,2020-03-12,0.87,2020-06-16
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.89,0.84,2020-03-24,0.93,2020-06-16
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.52,0.87,2020-03-13,1.0,2020-06-16
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.85,2020-03-17,0.99,2020-06-16
-28,"Nassau County, New York",36059.0,US-NY-Nassau,3.97,0.76,2020-03-11,0.85,2020-06-16
-29,"New York City County, New York",,US-NY-New York City,5.4,0.81,2020-03-08,0.87,2020-06-16
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.35,0.85,2020-03-12,0.94,2020-06-16
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.42,0.72,2020-03-15,0.83,2020-06-16
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.77,0.91,2020-03-14,0.95,2020-06-16
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.31,0.8,2020-03-24,0.94,2020-06-16
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.29,0.97,2020-03-21,0.98,2020-06-16
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.3,0.89,2020-03-22,0.96,2020-06-16
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.16,0.95,2020-03-23,0.97,2020-06-16
-37,"King County, Washington",53033.0,US-WA-King,1.86,0.88,2020-03-05,1.01,2020-06-16
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.0,2020-03-21,1.07,2020-06-12
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.22,0.79,2020-03-23,0.95,2020-06-12
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.0,2020-06-12
-7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-12
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.51,0.97,2020-03-22,1.06,2020-06-12
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.18,0.66,2020-03-24,0.85,2020-06-12
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.3,0.92,2020-03-23,1.03,2020-06-12
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.32,0.93,2020-03-22,1.05,2020-06-12
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.34,0.75,2020-03-13,0.91,2020-06-12
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.82,2020-03-21,0.97,2020-06-12
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.38,1.03,2020-03-24,1.1,2020-06-12
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.88,2020-03-11,1.01,2020-06-12
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.46,0.75,2020-03-23,0.93,2020-06-12
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.4,0.92,2020-03-16,1.06,2020-06-12
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.94,2020-06-12
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.79,2020-06-12
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.94,2020-06-12
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.77,0.79,2020-03-31,0.9,2020-06-12
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.55,0.86,2020-03-15,0.96,2020-06-12
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.8,0.83,2020-03-15,0.82,2020-06-12
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.82,2020-03-16,0.8,2020-06-12
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.1,0.79,2020-03-25,0.9,2020-06-12
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-15,0.99,2020-06-12
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.76,0.87,2020-03-17,1.01,2020-06-12
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.75,2020-03-14,0.87,2020-06-12
-29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.78,2020-06-12
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.18,0.83,2020-03-16,0.95,2020-06-12
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.37,0.73,2020-03-15,0.86,2020-06-12
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.93,2020-03-14,0.92,2020-06-12
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.17,0.78,2020-03-24,0.92,2020-06-12
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.96,2020-03-21,0.98,2020-06-12
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.36,0.87,2020-03-22,0.95,2020-06-12
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.95,2020-03-23,0.98,2020-06-12
-37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.96,2020-06-12
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.0,2020-03-21,1.05,2020-06-17
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.34,0.81,2020-03-23,0.97,2020-06-17
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.34,0.99,2020-03-12,1.07,2020-06-17
-7,"Orange County, California",6059.0,US-CA-Orange,1.24,1.04,2020-03-24,1.11,2020-06-17
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.4,0.97,2020-03-22,1.06,2020-06-17
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.06,0.73,2020-03-24,0.91,2020-06-17
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.28,0.88,2020-03-23,1.0,2020-06-17
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.31,0.91,2020-03-22,1.03,2020-06-17
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.14,0.76,2020-03-09,0.93,2020-06-17
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.29,0.85,2020-03-21,0.99,2020-06-17
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.33,0.98,2020-03-24,1.07,2020-06-17
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.77,0.85,2020-03-14,0.99,2020-06-17
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.41,0.76,2020-03-23,0.93,2020-06-17
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.8,0.92,2020-03-10,1.05,2020-06-17
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.95,2020-03-12,0.99,2020-06-17
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.66,0.69,2020-03-11,0.82,2020-06-17
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.34,0.85,2020-03-28,0.97,2020-06-17
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.72,0.81,2020-03-30,0.93,2020-06-17
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.9,0.85,2020-03-10,0.94,2020-06-17
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.9,0.87,2020-03-09,0.91,2020-06-17
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.77,0.85,2020-03-12,0.88,2020-06-17
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.89,0.84,2020-03-24,0.93,2020-06-17
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.52,0.87,2020-03-13,1.0,2020-06-17
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.85,2020-03-17,0.99,2020-06-17
-28,"Nassau County, New York",36059.0,US-NY-Nassau,3.97,0.76,2020-03-11,0.86,2020-06-17
-29,"New York City County, New York",,US-NY-New York City,5.4,0.81,2020-03-08,0.87,2020-06-17
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.34,0.84,2020-03-12,0.94,2020-06-17
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.72,2020-03-15,0.83,2020-06-17
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.77,0.91,2020-03-14,0.96,2020-06-17
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.31,0.8,2020-03-24,0.94,2020-06-17
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.27,0.97,2020-03-21,0.98,2020-06-17
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.31,0.9,2020-03-22,0.98,2020-06-17
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.17,0.94,2020-03-23,0.96,2020-06-17
-37,"King County, Washington",53033.0,US-WA-King,1.86,0.88,2020-03-05,1.01,2020-06-17
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.09,2020-06-05
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.21,0.77,2020-03-23,0.9,2020-06-05
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,0.99,2020-06-05
-7,"Orange County, California",6059.0,US-CA-Orange,1.26,1.03,2020-03-24,1.1,2020-06-05
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.5,0.98,2020-03-22,1.07,2020-06-05
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.14,0.69,2020-03-24,0.87,2020-06-05
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.29,0.94,2020-03-23,1.06,2020-06-05
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.34,0.94,2020-03-22,1.06,2020-06-05
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.46,0.8,2020-03-03,0.9,2020-06-05
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.81,2020-03-21,0.97,2020-06-05
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.22,1.05,2020-03-24,1.11,2020-06-05
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.77,0.88,2020-03-11,1.03,2020-06-05
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.74,2020-03-23,0.92,2020-06-05
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.33,0.86,2020-03-16,1.01,2020-06-05
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.38,0.98,2020-03-16,0.98,2020-06-05
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.95,0.64,2020-03-14,0.82,2020-06-05
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.85,2020-03-27,0.92,2020-06-05
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.8,2020-03-31,0.87,2020-06-05
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.81,2020-03-15,0.94,2020-06-05
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.84,2020-06-05
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.83,2020-03-16,0.83,2020-06-05
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.09,0.79,2020-03-25,0.92,2020-06-05
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.87,0.84,2020-03-15,0.99,2020-06-05
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.76,0.89,2020-03-17,1.02,2020-06-05
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.75,2020-03-14,0.88,2020-06-05
-29,"New York City County, New York",,US-NY-New York City,5.57,0.79,2020-03-12,0.8,2020-06-05
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.19,0.84,2020-03-16,0.97,2020-06-05
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.87,2020-06-05
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.79,0.93,2020-03-14,0.93,2020-06-05
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.15,0.78,2020-03-24,0.94,2020-06-05
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.31,0.98,2020-03-21,1.06,2020-06-05
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.34,0.89,2020-03-22,0.98,2020-06-05
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.21,0.96,2020-03-23,1.04,2020-06-05
-37,"King County, Washington",53033.0,US-WA-King,2.23,0.83,2020-03-16,0.87,2020-06-05
+2,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.97,0.95,2020-03-17,,
+3,"Santa Clara County, California",6085.0,US-CA-Santa Clara,3.22,0.71,2020-03-02,,
+4,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.8,0.83,2020-03-13,,
+5,"Cook County, Illinois",17031.0,US-IL-Cook,3.41,1.01,2020-03-13,,
+6,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.65,0.86,2020-03-25,,
+7,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.61,0.81,2020-03-15,,
+8,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.82,0.82,2020-03-15,,
+9,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.6,0.81,2020-03-15,,
+10,"Washoe County, Nevada",32031.0,US-NV-Washoe,3.98,0.69,2020-03-09,,
+11,"Nassau County, New York",36059.0,US-NY-Nassau,4.04,0.78,2020-03-14,,
+12,"New York City County, New York",,US-NY-New York City,5.57,0.76,2020-03-11,,
+13,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.24,0.88,2020-03-15,,
+14,"Westchester County, New York",36119.0,US-NY-Westchester,4.4,0.72,2020-03-15,,
+15,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.94,2020-03-14,,
+2,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.97,0.96,2020-03-17,,
+3,"Santa Clara County, California",6085.0,US-CA-Santa Clara,3.23,0.7,2020-03-02,,
+4,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.79,0.82,2020-03-13,,
+5,"Cook County, Illinois",17031.0,US-IL-Cook,3.41,1.01,2020-03-13,,
+6,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.65,0.86,2020-03-25,,
+7,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.61,0.8,2020-03-15,,
+8,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.82,0.82,2020-03-15,,
+9,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.6,0.81,2020-03-15,,
+10,"Washoe County, Nevada",32031.0,US-NV-Washoe,3.98,0.69,2020-03-09,,
+11,"Nassau County, New York",36059.0,US-NY-Nassau,4.04,0.77,2020-03-14,,
+12,"New York City County, New York",,US-NY-New York City,5.57,0.76,2020-03-11,,
+13,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.24,0.87,2020-03-15,,
+14,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.71,2020-03-15,,
+15,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.96,2020-03-14,,
+2,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.97,0.96,2020-03-17,,
+3,"Santa Clara County, California",6085.0,US-CA-Santa Clara,3.22,0.7,2020-03-02,,
+4,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.79,0.83,2020-03-13,,
+5,"Cook County, Illinois",17031.0,US-IL-Cook,3.41,1.0,2020-03-14,,
+6,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.65,0.86,2020-03-25,,
+7,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.61,0.8,2020-03-15,,
+8,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.82,0.82,2020-03-15,,
+9,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.6,0.81,2020-03-15,,
+10,"Washoe County, Nevada",32031.0,US-NV-Washoe,3.97,0.68,2020-03-09,,
+11,"Nassau County, New York",36059.0,US-NY-Nassau,4.04,0.77,2020-03-14,,
+12,"New York City County, New York",,US-NY-New York City,5.57,0.76,2020-03-11,,
+13,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.24,0.87,2020-03-15,,
+14,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.72,2020-03-15,,
+15,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.77,0.96,2020-03-14,,
+2,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.98,0.97,2020-03-17,,
+3,"Santa Clara County, California",6085.0,US-CA-Santa Clara,3.22,0.71,2020-03-02,,
+4,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.79,0.85,2020-03-13,,
+5,"Cook County, Illinois",17031.0,US-IL-Cook,3.4,1.02,2020-03-14,,
+6,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.65,0.86,2020-03-25,,
+7,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.61,0.81,2020-03-15,,
+8,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.82,0.83,2020-03-15,,
+9,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.6,0.82,2020-03-15,,
+10,"Washoe County, Nevada",32031.0,US-NV-Washoe,3.99,0.69,2020-03-09,,
+11,"Nassau County, New York",36059.0,US-NY-Nassau,4.04,0.78,2020-03-14,,
+12,"New York City County, New York",,US-NY-New York City,5.57,0.77,2020-03-11,,
+13,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.24,0.88,2020-03-15,,
+14,"Westchester County, New York",36119.0,US-NY-Westchester,4.4,0.72,2020-03-15,,
+15,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.76,0.99,2020-03-14,,
+2,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.97,0.98,2020-03-17,,
+3,"Santa Clara County, California",6085.0,US-CA-Santa Clara,3.22,0.72,2020-03-02,,
+4,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.79,0.87,2020-03-13,,
+5,"Cook County, Illinois",17031.0,US-IL-Cook,3.41,1.02,2020-03-14,,
+6,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.67,0.87,2020-03-25,,
+7,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.61,0.83,2020-03-15,,
+8,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.82,0.84,2020-03-15,,
+9,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.61,0.82,2020-03-15,,
+10,"Washoe County, Nevada",32031.0,US-NV-Washoe,3.98,0.7,2020-03-09,,
+11,"Nassau County, New York",36059.0,US-NY-Nassau,4.05,0.79,2020-03-14,,
+12,"New York City County, New York",,US-NY-New York City,5.6,0.77,2020-03-11,,
+13,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.24,0.89,2020-03-15,,
+14,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.73,2020-03-15,,
+15,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.77,0.99,2020-03-14,,
+2,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.97,0.98,2020-03-17,0.98,2020-05-24
+3,"Santa Clara County, California",6085.0,US-CA-Santa Clara,3.2,0.65,2020-02-29,0.66,2020-05-24
+4,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.81,0.85,2020-03-11,0.95,2020-05-24
+5,"Cook County, Illinois",17031.0,US-IL-Cook,3.4,1.02,2020-03-14,1.02,2020-05-24
+6,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.47,0.85,2020-03-27,0.85,2020-05-24
+7,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.6,0.81,2020-03-15,0.82,2020-05-24
+8,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.82,0.84,2020-03-15,0.84,2020-05-24
+9,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.61,0.82,2020-03-15,0.83,2020-05-24
+10,"Washoe County, Nevada",32031.0,US-NV-Washoe,4.01,0.68,2020-03-07,0.68,2020-05-24
+11,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.78,2020-03-14,0.78,2020-05-24
+12,"New York City County, New York",,US-NY-New York City,5.6,0.77,2020-03-11,0.77,2020-05-24
+13,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.21,0.88,2020-03-15,0.89,2020-05-24
+14,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.73,2020-03-15,0.74,2020-05-24
+15,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.96,2020-03-14,0.96,2020-05-24
+2,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.97,0.98,2020-03-17,0.98,2020-05-25
+3,"Santa Clara County, California",6085.0,US-CA-Santa Clara,3.2,0.68,2020-02-29,0.69,2020-05-25
+4,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.8,0.86,2020-03-11,0.98,2020-05-25
+5,"Cook County, Illinois",17031.0,US-IL-Cook,3.4,1.02,2020-03-14,1.02,2020-05-25
+6,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.47,0.85,2020-03-27,0.86,2020-05-25
+7,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.6,0.82,2020-03-15,0.83,2020-05-25
+8,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.82,0.84,2020-03-15,0.85,2020-05-25
+9,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.61,0.83,2020-03-15,0.84,2020-05-25
+10,"Washoe County, Nevada",32031.0,US-NV-Washoe,4.01,0.68,2020-03-07,0.69,2020-05-25
+11,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.78,2020-03-14,0.79,2020-05-25
+12,"New York City County, New York",,US-NY-New York City,5.6,0.77,2020-03-11,0.77,2020-05-25
+13,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.22,0.89,2020-03-15,0.89,2020-05-25
+14,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.74,2020-03-15,0.75,2020-05-25
+15,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.97,2020-03-14,0.97,2020-05-25
 4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.22,1.03,2020-03-21,1.12,2020-05-26
 5,"Alameda County, California",6001.0,US-CA-Alameda,1.28,0.83,2020-03-23,0.84,2020-05-26
 6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.97,0.98,2020-03-17,0.98,2020-05-26
@@ -237,74 +131,40 @@
 35,"Harris County, Texas",48201.0,US-TX-Harris,1.31,0.91,2020-03-22,1.02,2020-05-26
 36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.19,0.98,2020-03-23,1.07,2020-05-26
 37,"King County, Washington",53033.0,US-WA-King,2.18,0.81,2020-03-17,0.83,2020-05-26
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.01,2020-03-21,1.09,2020-06-07
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.24,0.77,2020-03-23,0.91,2020-06-07
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.0,2020-06-07
-7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-07
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.52,0.97,2020-03-22,1.07,2020-06-07
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.19,0.65,2020-03-24,0.84,2020-06-07
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.29,0.94,2020-03-23,1.06,2020-06-07
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.32,0.94,2020-03-22,1.06,2020-06-07
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.34,0.75,2020-03-13,0.86,2020-06-07
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.4,0.82,2020-03-21,0.98,2020-06-07
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.38,1.04,2020-03-24,1.1,2020-06-07
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.88,2020-03-11,1.02,2020-06-07
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.46,0.75,2020-03-23,0.93,2020-06-07
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.32,0.83,2020-03-16,0.99,2020-06-07
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.95,2020-06-07
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.82,2020-06-07
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.85,2020-03-27,0.94,2020-06-07
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.8,2020-03-31,0.89,2020-06-07
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.81,2020-03-15,0.95,2020-06-07
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.83,2020-06-07
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.82,2020-03-16,0.83,2020-06-07
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.1,0.79,2020-03-25,0.94,2020-06-07
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-15,0.99,2020-06-07
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.86,2020-03-17,1.01,2020-06-07
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.9,2020-06-07
-29,"New York City County, New York",,US-NY-New York City,5.56,0.8,2020-03-12,0.8,2020-06-07
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.17,0.84,2020-03-16,0.98,2020-06-07
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.89,2020-06-07
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.93,2020-06-07
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.93,2020-06-07
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.32,0.98,2020-03-21,1.03,2020-06-07
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.34,0.89,2020-03-22,0.99,2020-06-07
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.95,2020-03-23,1.01,2020-06-07
-37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.91,2020-06-07
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.01,2020-03-21,1.09,2020-06-11
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.22,0.8,2020-03-23,0.95,2020-06-11
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,1.0,2020-03-17,1.01,2020-06-11
-7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-11
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.52,0.97,2020-03-22,1.07,2020-06-11
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.18,0.66,2020-03-24,0.85,2020-06-11
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.29,0.92,2020-03-23,1.04,2020-06-11
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.33,0.93,2020-03-22,1.06,2020-06-11
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.32,0.75,2020-03-13,0.91,2020-06-11
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.83,2020-03-21,0.99,2020-06-11
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.37,1.02,2020-03-24,1.1,2020-06-11
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.79,0.87,2020-03-11,1.02,2020-06-11
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.46,0.75,2020-03-23,0.93,2020-06-11
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.38,0.91,2020-03-16,1.06,2020-06-11
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.96,2020-06-11
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.82,2020-06-11
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.97,2020-06-11
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.77,0.79,2020-03-31,0.92,2020-06-11
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.56,0.86,2020-03-14,1.01,2020-06-11
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.8,0.83,2020-03-15,0.86,2020-06-11
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.82,2020-03-16,0.85,2020-06-11
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.09,0.79,2020-03-25,0.95,2020-06-11
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-14,1.0,2020-06-11
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.76,0.88,2020-03-17,1.02,2020-06-11
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.91,2020-06-11
-29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.82,2020-06-11
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.18,0.83,2020-03-16,0.99,2020-06-11
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.37,0.73,2020-03-15,0.9,2020-06-11
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.94,2020-06-11
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.18,0.78,2020-03-24,0.91,2020-06-11
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.97,2020-03-21,0.99,2020-06-11
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.36,0.87,2020-03-22,0.95,2020-06-11
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.23,0.95,2020-03-23,1.0,2020-06-11
-37,"King County, Washington",53033.0,US-WA-King,2.3,0.84,2020-03-16,0.96,2020-06-11
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.01,2020-03-21,1.11,2020-05-27
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.32,0.83,2020-03-23,0.85,2020-05-27
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.98,0.97,2020-03-17,0.97,2020-05-27
+7,"Orange County, California",6059.0,US-CA-Orange,1.21,1.03,2020-03-24,1.08,2020-05-27
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.53,0.96,2020-03-22,1.05,2020-05-27
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.14,0.73,2020-03-24,0.87,2020-05-27
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.38,0.89,2020-03-23,1.0,2020-05-27
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.37,0.94,2020-03-22,1.03,2020-05-27
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.42,0.68,2020-02-29,0.7,2020-05-27
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.42,0.8,2020-03-21,0.95,2020-05-27
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.24,1.07,2020-03-24,1.14,2020-05-27
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.8,0.85,2020-03-11,0.99,2020-05-27
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.51,0.74,2020-03-23,0.91,2020-05-27
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.36,0.86,2020-03-16,0.99,2020-05-27
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.4,1.01,2020-03-14,1.01,2020-05-27
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.91,0.68,2020-03-15,0.85,2020-05-27
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.47,0.84,2020-03-27,0.86,2020-05-27
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.81,0.76,2020-03-31,0.78,2020-05-27
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.59,0.82,2020-03-15,0.84,2020-05-27
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.82,0.84,2020-03-15,0.86,2020-05-27
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.6,0.83,2020-03-15,0.85,2020-05-27
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.13,0.78,2020-03-25,0.8,2020-05-27
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.97,0.86,2020-03-16,1.0,2020-05-27
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.83,0.81,2020-03-17,0.97,2020-05-27
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.78,2020-03-14,0.8,2020-05-27
+29,"New York City County, New York",,US-NY-New York City,5.61,0.77,2020-03-11,0.77,2020-05-27
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.22,0.88,2020-03-15,0.9,2020-05-27
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.42,0.74,2020-03-15,0.76,2020-05-27
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.79,0.96,2020-03-14,0.96,2020-05-27
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.17,0.78,2020-03-24,0.95,2020-05-27
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.27,1.0,2020-03-21,1.09,2020-05-27
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.35,0.89,2020-03-22,1.0,2020-05-27
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.21,0.95,2020-03-23,1.05,2020-05-27
+37,"King County, Washington",53033.0,US-WA-King,2.17,0.82,2020-03-17,0.84,2020-05-27
 4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.1,2020-05-28
 5,"Alameda County, California",6001.0,US-CA-Alameda,1.34,0.82,2020-03-23,0.85,2020-05-28
 6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.98,0.97,2020-03-18,0.97,2020-05-28
@@ -339,40 +199,74 @@
 35,"Harris County, Texas",48201.0,US-TX-Harris,1.37,0.87,2020-03-22,0.98,2020-05-28
 36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.19,0.98,2020-03-23,1.08,2020-05-28
 37,"King County, Washington",53033.0,US-WA-King,2.17,0.82,2020-03-17,0.85,2020-05-28
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.09,2020-06-02
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.24,0.77,2020-03-23,0.87,2020-06-02
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,0.99,2020-06-02
-7,"Orange County, California",6059.0,US-CA-Orange,1.19,1.02,2020-03-24,1.08,2020-06-02
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.5,0.98,2020-03-22,1.07,2020-06-02
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.13,0.69,2020-03-24,0.86,2020-06-02
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.31,0.95,2020-03-23,1.06,2020-06-02
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.33,0.92,2020-03-22,1.04,2020-06-02
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.45,0.8,2020-03-03,0.84,2020-06-02
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.4,0.81,2020-03-21,0.97,2020-06-02
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.23,1.05,2020-03-24,1.1,2020-06-02
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.87,2020-03-11,1.01,2020-06-02
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.74,2020-03-23,0.92,2020-06-02
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.35,0.85,2020-03-15,1.0,2020-06-02
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.39,0.98,2020-03-16,0.98,2020-06-02
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.94,0.64,2020-03-14,0.82,2020-06-02
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.47,0.85,2020-03-27,0.88,2020-06-02
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.78,0.78,2020-03-31,0.81,2020-06-02
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.82,2020-03-15,0.91,2020-06-02
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.8,0.83,2020-03-15,0.83,2020-06-02
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.57,0.82,2020-03-16,0.82,2020-06-02
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.09,0.79,2020-03-24,0.89,2020-06-02
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.88,0.84,2020-03-15,0.99,2020-06-02
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.78,0.84,2020-03-17,0.99,2020-06-02
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.85,2020-06-02
-29,"New York City County, New York",,US-NY-New York City,5.57,0.79,2020-03-11,0.79,2020-06-02
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.2,0.85,2020-03-16,0.94,2020-06-02
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.84,2020-06-02
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.92,2020-06-02
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.15,0.78,2020-03-24,0.94,2020-06-02
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.32,0.98,2020-03-21,1.05,2020-06-02
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.36,0.87,2020-03-22,0.97,2020-06-02
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.21,0.96,2020-03-23,1.05,2020-06-02
-37,"King County, Washington",53033.0,US-WA-King,2.23,0.83,2020-03-16,0.85,2020-06-02
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.11,2020-05-29
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.34,0.82,2020-03-23,0.86,2020-05-29
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.98,0.97,2020-03-17,0.97,2020-05-29
+7,"Orange County, California",6059.0,US-CA-Orange,1.23,1.03,2020-03-24,1.09,2020-05-29
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.51,0.97,2020-03-22,1.07,2020-05-29
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.16,0.73,2020-03-24,0.88,2020-05-29
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.3,0.95,2020-03-23,1.06,2020-05-29
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.35,0.92,2020-03-22,1.03,2020-05-29
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.42,0.66,2020-03-02,0.7,2020-05-29
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.44,0.79,2020-03-21,0.94,2020-05-29
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.22,1.07,2020-03-24,1.15,2020-05-29
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.8,0.86,2020-03-11,1.0,2020-05-29
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.48,0.74,2020-03-23,0.92,2020-05-29
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.36,0.86,2020-03-16,1.0,2020-05-29
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.4,0.99,2020-03-15,0.99,2020-05-29
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.92,0.68,2020-03-15,0.85,2020-05-29
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.47,0.84,2020-03-27,0.87,2020-05-29
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.81,0.76,2020-03-31,0.8,2020-05-29
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.6,0.82,2020-03-15,0.85,2020-05-29
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.81,0.84,2020-03-15,0.87,2020-05-29
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.6,0.83,2020-03-15,0.86,2020-05-29
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.13,0.77,2020-03-25,0.81,2020-05-29
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.97,0.85,2020-03-16,1.0,2020-05-29
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.8,0.83,2020-03-17,0.98,2020-05-29
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.78,2020-03-14,0.82,2020-05-29
+29,"New York City County, New York",,US-NY-New York City,5.58,0.78,2020-03-12,0.78,2020-05-29
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.21,0.87,2020-03-15,0.9,2020-05-29
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.74,2020-03-15,0.78,2020-05-29
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.95,2020-03-14,0.95,2020-05-29
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.95,2020-05-29
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.37,0.96,2020-03-21,1.03,2020-05-29
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.38,0.87,2020-03-22,0.98,2020-05-29
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.96,2020-03-23,1.07,2020-05-29
+37,"King County, Washington",53033.0,US-WA-King,2.17,0.82,2020-03-17,0.86,2020-05-29
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.01,2020-03-21,1.11,2020-05-30
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.34,0.82,2020-03-23,0.87,2020-05-30
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.98,0.98,2020-03-17,0.98,2020-05-30
+7,"Orange County, California",6059.0,US-CA-Orange,1.21,1.02,2020-03-24,1.1,2020-05-30
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.53,0.96,2020-03-22,1.06,2020-05-30
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.16,0.73,2020-03-24,0.89,2020-05-30
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.31,0.96,2020-03-23,1.06,2020-05-30
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.35,0.94,2020-03-22,1.05,2020-05-30
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.42,0.66,2020-03-02,0.72,2020-05-30
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.43,0.8,2020-03-21,0.95,2020-05-30
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.23,1.07,2020-03-24,1.15,2020-05-30
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.8,0.87,2020-03-11,1.01,2020-05-30
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.49,0.74,2020-03-23,0.92,2020-05-30
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.36,0.86,2020-03-16,1.0,2020-05-30
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.4,0.98,2020-03-15,0.99,2020-05-30
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.92,0.68,2020-03-15,0.86,2020-05-30
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.47,0.84,2020-03-27,0.88,2020-05-30
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.81,0.76,2020-03-31,0.81,2020-05-30
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.59,0.82,2020-03-15,0.87,2020-05-30
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.81,0.84,2020-03-15,0.89,2020-05-30
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.6,0.83,2020-03-15,0.88,2020-05-30
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.13,0.77,2020-03-25,0.83,2020-05-30
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.96,0.85,2020-03-16,1.0,2020-05-30
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.86,2020-03-17,1.01,2020-05-30
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.78,2020-03-14,0.83,2020-05-30
+29,"New York City County, New York",,US-NY-New York City,5.59,0.78,2020-03-12,0.78,2020-05-30
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.21,0.87,2020-03-15,0.92,2020-05-30
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.74,2020-03-15,0.8,2020-05-30
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.79,0.94,2020-03-14,0.94,2020-05-30
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.95,2020-05-30
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.37,0.95,2020-03-21,1.01,2020-05-30
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.37,0.87,2020-03-22,0.98,2020-05-30
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.96,2020-03-23,1.07,2020-05-30
+37,"King County, Washington",53033.0,US-WA-King,2.17,0.82,2020-03-17,0.87,2020-05-30
 4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.09,2020-05-31
 5,"Alameda County, California",6001.0,US-CA-Alameda,1.23,0.77,2020-03-23,0.84,2020-05-31
 6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.98,2020-03-17,0.98,2020-05-31
@@ -407,6 +301,74 @@
 35,"Harris County, Texas",48201.0,US-TX-Harris,1.35,0.88,2020-03-22,0.98,2020-05-31
 36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.19,0.97,2020-03-23,1.08,2020-05-31
 37,"King County, Washington",53033.0,US-WA-King,2.23,0.83,2020-03-16,0.9,2020-05-31
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.09,2020-06-01
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.24,0.77,2020-03-23,0.85,2020-06-01
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.98,2020-03-17,0.98,2020-06-01
+7,"Orange County, California",6059.0,US-CA-Orange,1.22,1.03,2020-03-24,1.09,2020-06-01
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.51,0.97,2020-03-22,1.07,2020-06-01
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.14,0.69,2020-03-24,0.86,2020-06-01
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.33,0.96,2020-03-23,1.06,2020-06-01
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.35,0.94,2020-03-22,1.05,2020-06-01
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.39,0.67,2020-03-02,0.76,2020-06-01
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.38,0.81,2020-03-21,0.97,2020-06-01
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.2,1.07,2020-03-24,1.11,2020-06-01
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.79,0.87,2020-03-11,1.01,2020-06-01
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.74,2020-03-23,0.92,2020-06-01
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.36,0.84,2020-03-16,0.99,2020-06-01
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.38,0.98,2020-03-16,0.98,2020-06-01
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.95,0.64,2020-03-14,0.82,2020-06-01
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.85,2020-06-01
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.8,0.76,2020-03-31,0.78,2020-06-01
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.82,2020-03-15,0.9,2020-06-01
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.8,0.83,2020-03-15,0.83,2020-06-01
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.57,0.82,2020-03-16,0.82,2020-06-01
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.08,0.79,2020-03-24,0.88,2020-06-01
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.88,0.84,2020-03-15,0.99,2020-06-01
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.78,0.85,2020-03-17,1.0,2020-06-01
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.84,2020-06-01
+29,"New York City County, New York",,US-NY-New York City,5.57,0.79,2020-03-11,0.79,2020-06-01
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.2,0.85,2020-03-16,0.93,2020-06-01
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.39,0.73,2020-03-15,0.82,2020-06-01
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.79,0.92,2020-03-14,0.92,2020-06-01
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.15,0.78,2020-03-24,0.95,2020-06-01
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.36,0.96,2020-03-21,1.03,2020-06-01
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.35,0.88,2020-03-22,0.98,2020-06-01
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.2,0.97,2020-03-23,1.07,2020-06-01
+37,"King County, Washington",53033.0,US-WA-King,2.22,0.83,2020-03-16,0.84,2020-06-01
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.09,2020-06-02
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.24,0.77,2020-03-23,0.87,2020-06-02
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,0.99,2020-06-02
+7,"Orange County, California",6059.0,US-CA-Orange,1.19,1.02,2020-03-24,1.08,2020-06-02
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.5,0.98,2020-03-22,1.07,2020-06-02
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.13,0.69,2020-03-24,0.86,2020-06-02
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.31,0.95,2020-03-23,1.06,2020-06-02
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.33,0.92,2020-03-22,1.04,2020-06-02
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.45,0.8,2020-03-03,0.84,2020-06-02
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.4,0.81,2020-03-21,0.97,2020-06-02
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.23,1.05,2020-03-24,1.1,2020-06-02
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.87,2020-03-11,1.01,2020-06-02
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.74,2020-03-23,0.92,2020-06-02
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.35,0.85,2020-03-15,1.0,2020-06-02
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.39,0.98,2020-03-16,0.98,2020-06-02
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.94,0.64,2020-03-14,0.82,2020-06-02
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.47,0.85,2020-03-27,0.88,2020-06-02
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.78,0.78,2020-03-31,0.81,2020-06-02
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.82,2020-03-15,0.91,2020-06-02
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.8,0.83,2020-03-15,0.83,2020-06-02
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.57,0.82,2020-03-16,0.82,2020-06-02
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.09,0.79,2020-03-24,0.89,2020-06-02
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.88,0.84,2020-03-15,0.99,2020-06-02
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.78,0.84,2020-03-17,0.99,2020-06-02
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.85,2020-06-02
+29,"New York City County, New York",,US-NY-New York City,5.57,0.79,2020-03-11,0.79,2020-06-02
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.2,0.85,2020-03-16,0.94,2020-06-02
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.84,2020-06-02
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.92,2020-06-02
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.15,0.78,2020-03-24,0.94,2020-06-02
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.32,0.98,2020-03-21,1.05,2020-06-02
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.36,0.87,2020-03-22,0.97,2020-06-02
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.21,0.96,2020-03-23,1.05,2020-06-02
+37,"King County, Washington",53033.0,US-WA-King,2.23,0.83,2020-03-16,0.85,2020-06-02
 4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.02,2020-03-21,1.1,2020-06-03
 5,"Alameda County, California",6001.0,US-CA-Alameda,1.24,0.77,2020-03-23,0.88,2020-06-03
 6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,0.99,2020-06-03
@@ -475,40 +437,448 @@
 35,"Harris County, Texas",48201.0,US-TX-Harris,1.34,0.88,2020-03-22,0.98,2020-06-04
 36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.95,2020-03-23,1.01,2020-06-04
 37,"King County, Washington",53033.0,US-WA-King,2.23,0.83,2020-03-16,0.86,2020-06-04
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.0,2020-03-21,1.07,2020-06-20
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.33,0.82,2020-03-23,0.95,2020-06-20
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.27,1.01,2020-03-12,1.07,2020-06-20
-7,"Orange County, California",6059.0,US-CA-Orange,1.26,1.05,2020-03-24,1.11,2020-06-20
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.42,0.96,2020-03-22,1.09,2020-06-20
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.09,0.74,2020-03-24,0.96,2020-06-20
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.28,0.88,2020-03-23,1.04,2020-06-20
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.25,0.92,2020-03-22,1.06,2020-06-20
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.17,0.76,2020-03-09,0.87,2020-06-20
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.31,0.85,2020-03-21,1.04,2020-06-20
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.35,1.02,2020-03-24,1.1,2020-06-20
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.77,0.87,2020-03-14,1.04,2020-06-20
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.79,2020-03-23,1.01,2020-06-20
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.82,0.93,2020-03-10,1.09,2020-06-20
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.95,2020-03-12,0.93,2020-06-20
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.67,0.69,2020-03-12,0.86,2020-06-20
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.35,0.85,2020-03-28,0.9,2020-06-20
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.73,0.81,2020-03-30,0.87,2020-06-20
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.9,0.85,2020-03-10,0.87,2020-06-20
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.91,0.87,2020-03-09,0.83,2020-06-20
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.78,0.84,2020-03-13,0.8,2020-06-20
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.9,0.83,2020-03-24,0.91,2020-06-20
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.52,0.87,2020-03-13,1.06,2020-06-20
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.85,2020-03-17,1.03,2020-06-20
-28,"Nassau County, New York",36059.0,US-NY-Nassau,3.98,0.75,2020-03-11,0.77,2020-06-20
-29,"New York City County, New York",,US-NY-New York City,5.39,0.8,2020-03-08,0.79,2020-06-20
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.35,0.84,2020-03-13,0.86,2020-06-20
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.72,2020-03-15,0.75,2020-06-20
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.77,0.9,2020-03-14,0.89,2020-06-20
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.28,0.87,2020-03-24,1.07,2020-06-20
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.29,0.97,2020-03-21,1.08,2020-06-20
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.27,0.94,2020-03-22,1.1,2020-06-20
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.19,0.95,2020-03-23,1.06,2020-06-20
-37,"King County, Washington",53033.0,US-WA-King,1.87,0.88,2020-03-05,0.94,2020-06-20
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.09,2020-06-05
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.21,0.77,2020-03-23,0.9,2020-06-05
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,0.99,2020-06-05
+7,"Orange County, California",6059.0,US-CA-Orange,1.26,1.03,2020-03-24,1.1,2020-06-05
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.5,0.98,2020-03-22,1.07,2020-06-05
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.14,0.69,2020-03-24,0.87,2020-06-05
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.29,0.94,2020-03-23,1.06,2020-06-05
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.34,0.94,2020-03-22,1.06,2020-06-05
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.46,0.8,2020-03-03,0.9,2020-06-05
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.81,2020-03-21,0.97,2020-06-05
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.22,1.05,2020-03-24,1.11,2020-06-05
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.77,0.88,2020-03-11,1.03,2020-06-05
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.74,2020-03-23,0.92,2020-06-05
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.33,0.86,2020-03-16,1.01,2020-06-05
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.38,0.98,2020-03-16,0.98,2020-06-05
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.95,0.64,2020-03-14,0.82,2020-06-05
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.85,2020-03-27,0.92,2020-06-05
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.8,2020-03-31,0.87,2020-06-05
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.81,2020-03-15,0.94,2020-06-05
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.84,2020-06-05
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.83,2020-03-16,0.83,2020-06-05
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.09,0.79,2020-03-25,0.92,2020-06-05
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.87,0.84,2020-03-15,0.99,2020-06-05
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.76,0.89,2020-03-17,1.02,2020-06-05
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.75,2020-03-14,0.88,2020-06-05
+29,"New York City County, New York",,US-NY-New York City,5.57,0.79,2020-03-12,0.8,2020-06-05
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.19,0.84,2020-03-16,0.97,2020-06-05
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.87,2020-06-05
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.79,0.93,2020-03-14,0.93,2020-06-05
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.15,0.78,2020-03-24,0.94,2020-06-05
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.31,0.98,2020-03-21,1.06,2020-06-05
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.34,0.89,2020-03-22,0.98,2020-06-05
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.21,0.96,2020-03-23,1.04,2020-06-05
+37,"King County, Washington",53033.0,US-WA-King,2.23,0.83,2020-03-16,0.87,2020-06-05
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.09,2020-06-06
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.22,0.77,2020-03-23,0.91,2020-06-06
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.0,2020-06-06
+7,"Orange County, California",6059.0,US-CA-Orange,1.25,1.03,2020-03-24,1.1,2020-06-06
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.51,0.97,2020-03-22,1.07,2020-06-06
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.14,0.69,2020-03-24,0.87,2020-06-06
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.31,0.96,2020-03-23,1.06,2020-06-06
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.34,0.95,2020-03-22,1.06,2020-06-06
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.44,0.8,2020-03-03,0.91,2020-06-06
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.37,0.82,2020-03-21,0.98,2020-06-06
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.22,1.05,2020-03-24,1.11,2020-06-06
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.88,2020-03-11,1.02,2020-06-06
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.45,0.75,2020-03-23,0.93,2020-06-06
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.33,0.86,2020-03-16,1.01,2020-06-06
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.39,0.98,2020-03-16,0.98,2020-06-06
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.95,0.64,2020-03-14,0.82,2020-06-06
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.85,2020-03-27,0.93,2020-06-06
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.8,2020-03-31,0.88,2020-06-06
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.81,2020-03-15,0.95,2020-06-06
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.83,2020-06-06
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.83,2020-03-16,0.83,2020-06-06
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.11,0.79,2020-03-25,0.93,2020-06-06
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.87,0.84,2020-03-15,0.99,2020-06-06
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.75,0.87,2020-03-17,1.01,2020-06-06
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.75,2020-03-14,0.89,2020-06-06
+29,"New York City County, New York",,US-NY-New York City,5.59,0.79,2020-03-12,0.8,2020-06-06
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.19,0.84,2020-03-16,0.97,2020-06-06
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.88,2020-06-06
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.93,2020-03-14,0.93,2020-06-06
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.94,2020-06-06
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.32,0.98,2020-03-21,1.04,2020-06-06
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.34,0.89,2020-03-22,0.99,2020-06-06
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.95,2020-03-23,1.01,2020-06-06
+37,"King County, Washington",53033.0,US-WA-King,2.22,0.83,2020-03-16,0.88,2020-06-06
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.01,2020-03-21,1.09,2020-06-07
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.24,0.77,2020-03-23,0.91,2020-06-07
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.0,2020-06-07
+7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-07
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.52,0.97,2020-03-22,1.07,2020-06-07
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.19,0.65,2020-03-24,0.84,2020-06-07
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.29,0.94,2020-03-23,1.06,2020-06-07
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.32,0.94,2020-03-22,1.06,2020-06-07
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.34,0.75,2020-03-13,0.86,2020-06-07
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.4,0.82,2020-03-21,0.98,2020-06-07
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.38,1.04,2020-03-24,1.1,2020-06-07
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.88,2020-03-11,1.02,2020-06-07
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.46,0.75,2020-03-23,0.93,2020-06-07
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.32,0.83,2020-03-16,0.99,2020-06-07
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.95,2020-06-07
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.82,2020-06-07
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.85,2020-03-27,0.94,2020-06-07
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.8,2020-03-31,0.89,2020-06-07
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.81,2020-03-15,0.95,2020-06-07
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.83,2020-06-07
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.82,2020-03-16,0.83,2020-06-07
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.1,0.79,2020-03-25,0.94,2020-06-07
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-15,0.99,2020-06-07
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.86,2020-03-17,1.01,2020-06-07
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.9,2020-06-07
+29,"New York City County, New York",,US-NY-New York City,5.56,0.8,2020-03-12,0.8,2020-06-07
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.17,0.84,2020-03-16,0.98,2020-06-07
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.89,2020-06-07
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.93,2020-06-07
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.93,2020-06-07
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.32,0.98,2020-03-21,1.03,2020-06-07
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.34,0.89,2020-03-22,0.99,2020-06-07
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.95,2020-03-23,1.01,2020-06-07
+37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.91,2020-06-07
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.01,2020-03-21,1.09,2020-06-08
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.24,0.77,2020-03-23,0.92,2020-06-08
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.0,2020-06-08
+7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-08
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.52,0.97,2020-03-22,1.07,2020-06-08
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.19,0.66,2020-03-24,0.84,2020-06-08
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.3,0.94,2020-03-23,1.06,2020-06-08
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.33,0.93,2020-03-22,1.06,2020-06-08
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.35,0.75,2020-03-13,0.88,2020-06-08
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.82,2020-03-21,0.98,2020-06-08
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.38,1.04,2020-03-24,1.1,2020-06-08
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.88,2020-03-11,1.02,2020-06-08
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.46,0.75,2020-03-23,0.93,2020-06-08
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.32,0.83,2020-03-16,0.99,2020-06-08
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.95,2020-06-08
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.82,2020-06-08
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.85,2020-03-27,0.95,2020-06-08
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.8,2020-03-31,0.91,2020-06-08
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.81,2020-03-15,0.96,2020-06-08
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.84,2020-06-08
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.83,2020-03-16,0.83,2020-06-08
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.11,0.79,2020-03-25,0.94,2020-06-08
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.94,0.84,2020-03-15,0.99,2020-06-08
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.86,2020-03-17,1.01,2020-06-08
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.9,2020-06-08
+29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.8,2020-06-08
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.17,0.84,2020-03-16,0.98,2020-06-08
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.37,0.73,2020-03-15,0.89,2020-06-08
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.93,2020-06-08
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.93,2020-06-08
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.32,0.98,2020-03-21,1.03,2020-06-08
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.34,0.89,2020-03-22,0.98,2020-06-08
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.95,2020-03-23,1.0,2020-06-08
+37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.93,2020-06-08
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.08,2020-06-09
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.24,0.77,2020-03-23,0.92,2020-06-09
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.0,2020-06-09
+7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-09
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.54,0.96,2020-03-22,1.07,2020-06-09
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.19,0.66,2020-03-24,0.85,2020-06-09
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.28,0.93,2020-03-23,1.05,2020-06-09
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.33,0.93,2020-03-22,1.05,2020-06-09
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.34,0.75,2020-03-13,0.89,2020-06-09
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.4,0.83,2020-03-21,0.99,2020-06-09
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.38,1.03,2020-03-24,1.1,2020-06-09
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.87,2020-03-11,1.01,2020-06-09
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.46,0.75,2020-03-23,0.93,2020-06-09
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.36,0.87,2020-03-16,1.01,2020-06-09
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.95,2020-06-09
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.98,0.64,2020-03-14,0.82,2020-06-09
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.85,2020-03-27,0.96,2020-06-09
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.8,2020-03-31,0.92,2020-06-09
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.56,0.86,2020-03-14,1.01,2020-06-09
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.84,2020-06-09
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.83,2020-03-16,0.84,2020-06-09
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.1,0.79,2020-03-25,0.95,2020-06-09
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-15,0.99,2020-06-09
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.86,2020-03-17,1.01,2020-06-09
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.91,2020-06-09
+29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.81,2020-06-09
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.17,0.83,2020-03-16,0.98,2020-06-09
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.37,0.73,2020-03-15,0.9,2020-06-09
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.93,2020-06-09
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.17,0.78,2020-03-24,0.92,2020-06-09
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.97,2020-03-21,1.01,2020-06-09
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.34,0.88,2020-03-22,0.97,2020-06-09
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.23,0.94,2020-03-23,0.98,2020-06-09
+37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.94,2020-06-09
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.09,2020-06-10
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.21,0.78,2020-03-23,0.93,2020-06-10
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.01,2020-06-10
+7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-10
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.53,0.97,2020-03-22,1.07,2020-06-10
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.18,0.66,2020-03-24,0.84,2020-06-10
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.28,0.92,2020-03-23,1.04,2020-06-10
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.32,0.94,2020-03-22,1.06,2020-06-10
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.33,0.75,2020-03-13,0.89,2020-06-10
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.4,0.83,2020-03-21,0.99,2020-06-10
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.36,1.01,2020-03-24,1.09,2020-06-10
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.77,0.86,2020-03-11,1.01,2020-06-10
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.45,0.75,2020-03-23,0.93,2020-06-10
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.37,0.89,2020-03-16,1.04,2020-06-10
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.96,2020-06-10
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.82,2020-06-10
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.96,2020-06-10
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.79,2020-03-31,0.92,2020-06-10
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.55,0.86,2020-03-14,1.01,2020-06-10
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.85,2020-06-10
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.59,0.83,2020-03-16,0.84,2020-06-10
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.09,0.79,2020-03-25,0.95,2020-06-10
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-15,0.99,2020-06-10
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.86,2020-03-17,1.01,2020-06-10
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.91,2020-06-10
+29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.82,2020-06-10
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.17,0.83,2020-03-16,0.99,2020-06-10
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.9,2020-06-10
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.79,0.92,2020-03-14,0.94,2020-06-10
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.92,2020-06-10
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.97,2020-03-21,1.0,2020-06-10
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.35,0.88,2020-03-22,0.96,2020-06-10
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.23,0.95,2020-03-23,1.02,2020-06-10
+37,"King County, Washington",53033.0,US-WA-King,2.3,0.83,2020-03-16,0.94,2020-06-10
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.01,2020-03-21,1.09,2020-06-11
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.22,0.8,2020-03-23,0.95,2020-06-11
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,1.0,2020-03-17,1.01,2020-06-11
+7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-11
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.52,0.97,2020-03-22,1.07,2020-06-11
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.18,0.66,2020-03-24,0.85,2020-06-11
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.29,0.92,2020-03-23,1.04,2020-06-11
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.33,0.93,2020-03-22,1.06,2020-06-11
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.32,0.75,2020-03-13,0.91,2020-06-11
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.83,2020-03-21,0.99,2020-06-11
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.37,1.02,2020-03-24,1.1,2020-06-11
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.79,0.87,2020-03-11,1.02,2020-06-11
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.46,0.75,2020-03-23,0.93,2020-06-11
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.38,0.91,2020-03-16,1.06,2020-06-11
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.96,2020-06-11
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.82,2020-06-11
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.97,2020-06-11
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.77,0.79,2020-03-31,0.92,2020-06-11
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.56,0.86,2020-03-14,1.01,2020-06-11
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.8,0.83,2020-03-15,0.86,2020-06-11
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.82,2020-03-16,0.85,2020-06-11
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.09,0.79,2020-03-25,0.95,2020-06-11
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-14,1.0,2020-06-11
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.76,0.88,2020-03-17,1.02,2020-06-11
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.91,2020-06-11
+29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.82,2020-06-11
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.18,0.83,2020-03-16,0.99,2020-06-11
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.37,0.73,2020-03-15,0.9,2020-06-11
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.94,2020-06-11
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.18,0.78,2020-03-24,0.91,2020-06-11
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.97,2020-03-21,0.99,2020-06-11
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.36,0.87,2020-03-22,0.95,2020-06-11
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.23,0.95,2020-03-23,1.0,2020-06-11
+37,"King County, Washington",53033.0,US-WA-King,2.3,0.84,2020-03-16,0.96,2020-06-11
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.0,2020-03-21,1.07,2020-06-12
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.22,0.79,2020-03-23,0.95,2020-06-12
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.0,2020-06-12
+7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-12
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.51,0.97,2020-03-22,1.06,2020-06-12
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.18,0.66,2020-03-24,0.85,2020-06-12
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.3,0.92,2020-03-23,1.03,2020-06-12
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.32,0.93,2020-03-22,1.05,2020-06-12
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.34,0.75,2020-03-13,0.91,2020-06-12
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.82,2020-03-21,0.97,2020-06-12
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.38,1.03,2020-03-24,1.1,2020-06-12
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.88,2020-03-11,1.01,2020-06-12
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.46,0.75,2020-03-23,0.93,2020-06-12
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.4,0.92,2020-03-16,1.06,2020-06-12
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.94,2020-06-12
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.79,2020-06-12
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.94,2020-06-12
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.77,0.79,2020-03-31,0.9,2020-06-12
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.55,0.86,2020-03-15,0.96,2020-06-12
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.8,0.83,2020-03-15,0.82,2020-06-12
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.82,2020-03-16,0.8,2020-06-12
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.1,0.79,2020-03-25,0.9,2020-06-12
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-15,0.99,2020-06-12
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.76,0.87,2020-03-17,1.01,2020-06-12
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.75,2020-03-14,0.87,2020-06-12
+29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.78,2020-06-12
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.18,0.83,2020-03-16,0.95,2020-06-12
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.37,0.73,2020-03-15,0.86,2020-06-12
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.93,2020-03-14,0.92,2020-06-12
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.17,0.78,2020-03-24,0.92,2020-06-12
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.96,2020-03-21,0.98,2020-06-12
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.36,0.87,2020-03-22,0.95,2020-06-12
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.95,2020-03-23,0.98,2020-06-12
+37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.96,2020-06-12
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.0,2020-03-21,1.07,2020-06-13
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.21,0.78,2020-03-23,0.94,2020-06-13
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,1.0,2020-03-17,1.01,2020-06-13
+7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-13
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.55,0.96,2020-03-22,1.06,2020-06-13
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.18,0.66,2020-03-24,0.85,2020-06-13
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.34,0.91,2020-03-23,1.03,2020-06-13
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.32,0.94,2020-03-22,1.06,2020-06-13
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.34,0.75,2020-03-13,0.92,2020-06-13
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.83,2020-03-21,0.98,2020-06-13
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.36,1.0,2020-03-24,1.09,2020-06-13
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.77,0.88,2020-03-11,1.02,2020-06-13
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.74,2020-03-23,0.92,2020-06-13
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.4,0.93,2020-03-16,1.06,2020-06-13
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.95,2020-06-13
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.79,2020-06-13
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.95,2020-06-13
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.78,0.79,2020-03-31,0.9,2020-06-13
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.56,0.86,2020-03-15,0.96,2020-06-13
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.84,2020-03-15,0.84,2020-06-13
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.59,0.83,2020-03-16,0.82,2020-06-13
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.09,0.79,2020-03-25,0.9,2020-06-13
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-15,0.99,2020-06-13
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.76,0.87,2020-03-17,1.01,2020-06-13
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.75,2020-03-14,0.88,2020-06-13
+29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.79,2020-06-13
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.18,0.83,2020-03-16,0.95,2020-06-13
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.87,2020-06-13
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.93,2020-03-14,0.93,2020-06-13
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.17,0.78,2020-03-24,0.92,2020-06-13
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.96,2020-03-21,0.97,2020-06-13
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.35,0.88,2020-03-22,0.94,2020-06-13
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.23,0.94,2020-03-23,0.97,2020-06-13
+37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.98,2020-06-13
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.0,2020-03-21,1.06,2020-06-14
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.22,0.8,2020-03-23,0.96,2020-06-14
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,1.0,2020-03-17,1.07,2020-06-14
+7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-14
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.56,0.95,2020-03-22,1.06,2020-06-14
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.18,0.66,2020-03-24,0.85,2020-06-14
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.34,0.91,2020-03-23,1.03,2020-06-14
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.33,0.93,2020-03-22,1.05,2020-06-14
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.33,0.76,2020-03-13,0.92,2020-06-14
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.83,2020-03-21,0.98,2020-06-14
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.34,0.99,2020-03-24,1.08,2020-06-14
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.59,0.87,2020-03-14,1.01,2020-06-14
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.74,2020-03-23,0.92,2020-06-14
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.4,0.93,2020-03-16,1.06,2020-06-14
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.96,2020-06-14
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.79,2020-06-14
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.95,2020-06-14
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.77,0.79,2020-03-31,0.91,2020-06-14
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.56,0.86,2020-03-15,0.95,2020-06-14
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.84,2020-03-15,0.86,2020-06-14
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.59,0.83,2020-03-16,0.83,2020-06-14
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.1,0.79,2020-03-25,0.9,2020-06-14
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.92,0.84,2020-03-15,0.99,2020-06-14
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.87,2020-03-17,1.01,2020-06-14
+28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.84,2020-06-14
+29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.84,2020-06-14
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.18,0.83,2020-03-16,0.92,2020-06-14
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.37,0.73,2020-03-15,0.83,2020-06-14
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.94,2020-06-14
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.18,0.79,2020-03-24,0.93,2020-06-14
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.96,2020-03-21,0.97,2020-06-14
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.36,0.87,2020-03-22,0.93,2020-06-14
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.23,0.94,2020-03-23,0.97,2020-06-14
+37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.98,2020-06-14
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.0,2020-03-21,1.06,2020-06-15
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.36,0.8,2020-03-23,0.96,2020-06-15
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.34,0.99,2020-03-12,1.06,2020-06-15
+7,"Orange County, California",6059.0,US-CA-Orange,1.23,1.04,2020-03-24,1.1,2020-06-15
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.4,0.97,2020-03-22,1.06,2020-06-15
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.06,0.71,2020-03-24,0.89,2020-06-15
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.3,0.9,2020-03-23,1.02,2020-06-15
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.23,0.92,2020-03-22,1.04,2020-06-15
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.15,0.76,2020-03-09,0.92,2020-06-15
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.29,0.86,2020-03-21,1.0,2020-06-15
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.36,1.0,2020-03-24,1.08,2020-06-15
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.76,0.85,2020-03-14,0.99,2020-06-15
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.42,0.75,2020-03-23,0.93,2020-06-15
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.81,0.91,2020-03-10,1.05,2020-06-15
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.94,2020-03-12,0.97,2020-06-15
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.66,0.69,2020-03-12,0.83,2020-06-15
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.33,0.85,2020-03-28,0.96,2020-06-15
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.72,0.8,2020-03-30,0.92,2020-06-15
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.89,0.85,2020-03-10,0.94,2020-06-15
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.9,0.87,2020-03-09,0.89,2020-06-15
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.77,0.85,2020-03-12,0.86,2020-06-15
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.91,0.82,2020-03-24,0.92,2020-06-15
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.51,0.87,2020-03-13,1.01,2020-06-15
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.76,0.86,2020-03-17,1.0,2020-06-15
+28,"Nassau County, New York",36059.0,US-NY-Nassau,3.97,0.76,2020-03-11,0.85,2020-06-15
+29,"New York City County, New York",,US-NY-New York City,5.4,0.81,2020-03-08,0.86,2020-06-15
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.34,0.85,2020-03-12,0.93,2020-06-15
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.42,0.72,2020-03-15,0.82,2020-06-15
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.76,0.92,2020-03-14,0.95,2020-06-15
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.32,0.8,2020-03-24,0.94,2020-06-15
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.28,0.97,2020-03-21,0.98,2020-06-15
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.3,0.89,2020-03-22,0.95,2020-06-15
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.16,0.95,2020-03-23,0.99,2020-06-15
+37,"King County, Washington",53033.0,US-WA-King,1.86,0.88,2020-03-05,1.01,2020-06-15
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.0,2020-03-21,1.05,2020-06-16
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.36,0.8,2020-03-23,0.96,2020-06-16
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.34,0.99,2020-03-12,1.07,2020-06-16
+7,"Orange County, California",6059.0,US-CA-Orange,1.23,1.04,2020-03-24,1.1,2020-06-16
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.39,0.97,2020-03-22,1.06,2020-06-16
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.07,0.71,2020-03-24,0.89,2020-06-16
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.28,0.89,2020-03-23,1.01,2020-06-16
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.28,0.91,2020-03-22,1.04,2020-06-16
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.15,0.76,2020-03-09,0.93,2020-06-16
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.29,0.85,2020-03-21,0.99,2020-06-16
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.36,1.01,2020-03-24,1.08,2020-06-16
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.76,0.85,2020-03-14,0.99,2020-06-16
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.42,0.75,2020-03-23,0.93,2020-06-16
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.81,0.91,2020-03-10,1.05,2020-06-16
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.94,2020-03-12,0.98,2020-06-16
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.66,0.69,2020-03-11,0.83,2020-06-16
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.34,0.84,2020-03-28,0.96,2020-06-16
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.72,0.8,2020-03-30,0.92,2020-06-16
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.89,0.85,2020-03-10,0.94,2020-06-16
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.9,0.87,2020-03-09,0.9,2020-06-16
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.77,0.85,2020-03-12,0.87,2020-06-16
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.89,0.84,2020-03-24,0.93,2020-06-16
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.52,0.87,2020-03-13,1.0,2020-06-16
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.85,2020-03-17,0.99,2020-06-16
+28,"Nassau County, New York",36059.0,US-NY-Nassau,3.97,0.76,2020-03-11,0.85,2020-06-16
+29,"New York City County, New York",,US-NY-New York City,5.4,0.81,2020-03-08,0.87,2020-06-16
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.35,0.85,2020-03-12,0.94,2020-06-16
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.42,0.72,2020-03-15,0.83,2020-06-16
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.77,0.91,2020-03-14,0.95,2020-06-16
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.31,0.8,2020-03-24,0.94,2020-06-16
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.29,0.97,2020-03-21,0.98,2020-06-16
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.3,0.89,2020-03-22,0.96,2020-06-16
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.16,0.95,2020-03-23,0.97,2020-06-16
+37,"King County, Washington",53033.0,US-WA-King,1.86,0.88,2020-03-05,1.01,2020-06-16
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.0,2020-03-21,1.05,2020-06-17
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.34,0.81,2020-03-23,0.97,2020-06-17
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.34,0.99,2020-03-12,1.07,2020-06-17
+7,"Orange County, California",6059.0,US-CA-Orange,1.24,1.04,2020-03-24,1.11,2020-06-17
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.4,0.97,2020-03-22,1.06,2020-06-17
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.06,0.73,2020-03-24,0.91,2020-06-17
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.28,0.88,2020-03-23,1.0,2020-06-17
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.31,0.91,2020-03-22,1.03,2020-06-17
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.14,0.76,2020-03-09,0.93,2020-06-17
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.29,0.85,2020-03-21,0.99,2020-06-17
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.33,0.98,2020-03-24,1.07,2020-06-17
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.77,0.85,2020-03-14,0.99,2020-06-17
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.41,0.76,2020-03-23,0.93,2020-06-17
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.8,0.92,2020-03-10,1.05,2020-06-17
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.95,2020-03-12,0.99,2020-06-17
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.66,0.69,2020-03-11,0.82,2020-06-17
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.34,0.85,2020-03-28,0.97,2020-06-17
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.72,0.81,2020-03-30,0.93,2020-06-17
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.9,0.85,2020-03-10,0.94,2020-06-17
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.9,0.87,2020-03-09,0.91,2020-06-17
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.77,0.85,2020-03-12,0.88,2020-06-17
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.89,0.84,2020-03-24,0.93,2020-06-17
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.52,0.87,2020-03-13,1.0,2020-06-17
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.85,2020-03-17,0.99,2020-06-17
+28,"Nassau County, New York",36059.0,US-NY-Nassau,3.97,0.76,2020-03-11,0.86,2020-06-17
+29,"New York City County, New York",,US-NY-New York City,5.4,0.81,2020-03-08,0.87,2020-06-17
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.34,0.84,2020-03-12,0.94,2020-06-17
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.72,2020-03-15,0.83,2020-06-17
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.77,0.91,2020-03-14,0.96,2020-06-17
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.31,0.8,2020-03-24,0.94,2020-06-17
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.27,0.97,2020-03-21,0.98,2020-06-17
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.31,0.9,2020-03-22,0.98,2020-06-17
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.17,0.94,2020-03-23,0.96,2020-06-17
+37,"King County, Washington",53033.0,US-WA-King,1.86,0.88,2020-03-05,1.01,2020-06-17
 4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.06,2020-06-18
 5,"Alameda County, California",6001.0,US-CA-Alameda,1.33,0.81,2020-03-23,0.93,2020-06-18
 6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.33,0.99,2020-03-12,1.08,2020-06-18
@@ -577,108 +947,40 @@
 35,"Harris County, Texas",48201.0,US-TX-Harris,1.26,0.94,2020-03-22,1.1,2020-06-19
 36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.17,0.97,2020-03-23,1.07,2020-06-19
 37,"King County, Washington",53033.0,US-WA-King,1.86,0.88,2020-03-05,0.93,2020-06-19
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.01,2020-03-21,1.11,2020-05-27
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.32,0.83,2020-03-23,0.85,2020-05-27
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.98,0.97,2020-03-17,0.97,2020-05-27
-7,"Orange County, California",6059.0,US-CA-Orange,1.21,1.03,2020-03-24,1.08,2020-05-27
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.53,0.96,2020-03-22,1.05,2020-05-27
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.14,0.73,2020-03-24,0.87,2020-05-27
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.38,0.89,2020-03-23,1.0,2020-05-27
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.37,0.94,2020-03-22,1.03,2020-05-27
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.42,0.68,2020-02-29,0.7,2020-05-27
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.42,0.8,2020-03-21,0.95,2020-05-27
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.24,1.07,2020-03-24,1.14,2020-05-27
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.8,0.85,2020-03-11,0.99,2020-05-27
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.51,0.74,2020-03-23,0.91,2020-05-27
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.36,0.86,2020-03-16,0.99,2020-05-27
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.4,1.01,2020-03-14,1.01,2020-05-27
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.91,0.68,2020-03-15,0.85,2020-05-27
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.47,0.84,2020-03-27,0.86,2020-05-27
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.81,0.76,2020-03-31,0.78,2020-05-27
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.59,0.82,2020-03-15,0.84,2020-05-27
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.82,0.84,2020-03-15,0.86,2020-05-27
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.6,0.83,2020-03-15,0.85,2020-05-27
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.13,0.78,2020-03-25,0.8,2020-05-27
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.97,0.86,2020-03-16,1.0,2020-05-27
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.83,0.81,2020-03-17,0.97,2020-05-27
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.78,2020-03-14,0.8,2020-05-27
-29,"New York City County, New York",,US-NY-New York City,5.61,0.77,2020-03-11,0.77,2020-05-27
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.22,0.88,2020-03-15,0.9,2020-05-27
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.42,0.74,2020-03-15,0.76,2020-05-27
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.79,0.96,2020-03-14,0.96,2020-05-27
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.17,0.78,2020-03-24,0.95,2020-05-27
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.27,1.0,2020-03-21,1.09,2020-05-27
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.35,0.89,2020-03-22,1.0,2020-05-27
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.21,0.95,2020-03-23,1.05,2020-05-27
-37,"King County, Washington",53033.0,US-WA-King,2.17,0.82,2020-03-17,0.84,2020-05-27
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.26,0.99,2020-03-21,1.07,2020-06-23
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.32,0.81,2020-03-23,1.01,2020-06-23
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.27,1.01,2020-03-13,1.08,2020-06-23
-7,"Orange County, California",6059.0,US-CA-Orange,1.25,1.05,2020-03-24,1.11,2020-06-23
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.4,0.98,2020-03-22,1.11,2020-06-23
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.07,0.73,2020-03-24,1.01,2020-06-23
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.32,0.87,2020-03-23,1.06,2020-06-23
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.29,0.91,2020-03-22,1.06,2020-06-23
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.15,0.76,2020-03-09,0.94,2020-06-23
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.31,0.86,2020-03-21,1.1,2020-06-23
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.38,1.0,2020-03-24,1.12,2020-06-23
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.78,0.87,2020-03-14,1.09,2020-06-23
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.8,2020-03-23,1.09,2020-06-23
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.83,0.92,2020-03-10,1.12,2020-06-23
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.95,2020-03-13,0.95,2020-06-23
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.67,0.7,2020-03-12,0.95,2020-06-23
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.31,0.86,2020-03-28,0.96,2020-06-23
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.72,0.81,2020-03-30,0.93,2020-06-23
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.9,0.87,2020-03-11,0.92,2020-06-23
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.88,0.88,2020-03-10,0.86,2020-06-23
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.74,0.86,2020-03-14,0.83,2020-06-23
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.91,0.84,2020-03-24,0.96,2020-06-23
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.53,0.87,2020-03-13,1.05,2020-06-23
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.78,0.84,2020-03-17,1.04,2020-06-23
-28,"Nassau County, New York",36059.0,US-NY-Nassau,3.96,0.78,2020-03-12,0.83,2020-06-23
-29,"New York City County, New York",,US-NY-New York City,5.33,0.81,2020-03-09,0.8,2020-06-23
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.33,0.85,2020-03-13,0.9,2020-06-23
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.72,2020-03-15,0.8,2020-06-23
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.77,0.91,2020-03-15,0.91,2020-06-23
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.36,0.85,2020-03-24,1.1,2020-06-23
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.31,0.97,2020-03-21,1.1,2020-06-23
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.26,0.93,2020-03-22,1.12,2020-06-23
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.15,0.94,2020-03-23,1.09,2020-06-23
-37,"King County, Washington",53033.0,US-WA-King,1.86,0.89,2020-03-05,0.99,2020-06-23
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.09,2020-06-01
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.24,0.77,2020-03-23,0.85,2020-06-01
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.98,2020-03-17,0.98,2020-06-01
-7,"Orange County, California",6059.0,US-CA-Orange,1.22,1.03,2020-03-24,1.09,2020-06-01
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.51,0.97,2020-03-22,1.07,2020-06-01
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.14,0.69,2020-03-24,0.86,2020-06-01
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.33,0.96,2020-03-23,1.06,2020-06-01
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.35,0.94,2020-03-22,1.05,2020-06-01
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.39,0.67,2020-03-02,0.76,2020-06-01
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.38,0.81,2020-03-21,0.97,2020-06-01
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.2,1.07,2020-03-24,1.11,2020-06-01
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.79,0.87,2020-03-11,1.01,2020-06-01
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.74,2020-03-23,0.92,2020-06-01
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.36,0.84,2020-03-16,0.99,2020-06-01
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.38,0.98,2020-03-16,0.98,2020-06-01
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.95,0.64,2020-03-14,0.82,2020-06-01
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.85,2020-06-01
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.8,0.76,2020-03-31,0.78,2020-06-01
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.82,2020-03-15,0.9,2020-06-01
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.8,0.83,2020-03-15,0.83,2020-06-01
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.57,0.82,2020-03-16,0.82,2020-06-01
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.08,0.79,2020-03-24,0.88,2020-06-01
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.88,0.84,2020-03-15,0.99,2020-06-01
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.78,0.85,2020-03-17,1.0,2020-06-01
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.84,2020-06-01
-29,"New York City County, New York",,US-NY-New York City,5.57,0.79,2020-03-11,0.79,2020-06-01
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.2,0.85,2020-03-16,0.93,2020-06-01
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.39,0.73,2020-03-15,0.82,2020-06-01
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.79,0.92,2020-03-14,0.92,2020-06-01
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.15,0.78,2020-03-24,0.95,2020-06-01
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.36,0.96,2020-03-21,1.03,2020-06-01
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.35,0.88,2020-03-22,0.98,2020-06-01
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.2,0.97,2020-03-23,1.07,2020-06-01
-37,"King County, Washington",53033.0,US-WA-King,2.22,0.83,2020-03-16,0.84,2020-06-01
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.0,2020-03-21,1.07,2020-06-20
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.33,0.82,2020-03-23,0.95,2020-06-20
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.27,1.01,2020-03-12,1.07,2020-06-20
+7,"Orange County, California",6059.0,US-CA-Orange,1.26,1.05,2020-03-24,1.11,2020-06-20
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.42,0.96,2020-03-22,1.09,2020-06-20
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.09,0.74,2020-03-24,0.96,2020-06-20
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.28,0.88,2020-03-23,1.04,2020-06-20
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.25,0.92,2020-03-22,1.06,2020-06-20
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.17,0.76,2020-03-09,0.87,2020-06-20
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.31,0.85,2020-03-21,1.04,2020-06-20
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.35,1.02,2020-03-24,1.1,2020-06-20
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.77,0.87,2020-03-14,1.04,2020-06-20
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.79,2020-03-23,1.01,2020-06-20
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.82,0.93,2020-03-10,1.09,2020-06-20
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.95,2020-03-12,0.93,2020-06-20
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.67,0.69,2020-03-12,0.86,2020-06-20
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.35,0.85,2020-03-28,0.9,2020-06-20
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.73,0.81,2020-03-30,0.87,2020-06-20
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.9,0.85,2020-03-10,0.87,2020-06-20
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.91,0.87,2020-03-09,0.83,2020-06-20
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.78,0.84,2020-03-13,0.8,2020-06-20
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.9,0.83,2020-03-24,0.91,2020-06-20
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.52,0.87,2020-03-13,1.06,2020-06-20
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.85,2020-03-17,1.03,2020-06-20
+28,"Nassau County, New York",36059.0,US-NY-Nassau,3.98,0.75,2020-03-11,0.77,2020-06-20
+29,"New York City County, New York",,US-NY-New York City,5.39,0.8,2020-03-08,0.79,2020-06-20
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.35,0.84,2020-03-13,0.86,2020-06-20
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.72,2020-03-15,0.75,2020-06-20
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.77,0.9,2020-03-14,0.89,2020-06-20
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.28,0.87,2020-03-24,1.07,2020-06-20
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.29,0.97,2020-03-21,1.08,2020-06-20
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.27,0.94,2020-03-22,1.1,2020-06-20
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.19,0.95,2020-03-23,1.06,2020-06-20
+37,"King County, Washington",53033.0,US-WA-King,1.87,0.88,2020-03-05,0.94,2020-06-20
 4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,0.99,2020-03-21,1.07,2020-06-21
 5,"Alameda County, California",6001.0,US-CA-Alameda,1.32,0.81,2020-03-23,0.96,2020-06-21
 6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.27,1.01,2020-03-12,1.07,2020-06-21
@@ -747,40 +1049,6 @@
 35,"Harris County, Texas",48201.0,US-TX-Harris,1.26,0.94,2020-03-22,1.09,2020-06-22
 36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.18,0.96,2020-03-23,1.06,2020-06-22
 37,"King County, Washington",53033.0,US-WA-King,1.86,0.89,2020-03-05,0.96,2020-06-22
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.01,2020-03-21,1.09,2020-06-08
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.24,0.77,2020-03-23,0.92,2020-06-08
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.0,2020-06-08
-7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-08
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.52,0.97,2020-03-22,1.07,2020-06-08
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.19,0.66,2020-03-24,0.84,2020-06-08
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.3,0.94,2020-03-23,1.06,2020-06-08
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.33,0.93,2020-03-22,1.06,2020-06-08
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.35,0.75,2020-03-13,0.88,2020-06-08
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.82,2020-03-21,0.98,2020-06-08
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.38,1.04,2020-03-24,1.1,2020-06-08
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.88,2020-03-11,1.02,2020-06-08
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.46,0.75,2020-03-23,0.93,2020-06-08
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.32,0.83,2020-03-16,0.99,2020-06-08
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.95,2020-06-08
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.82,2020-06-08
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.85,2020-03-27,0.95,2020-06-08
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.8,2020-03-31,0.91,2020-06-08
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.81,2020-03-15,0.96,2020-06-08
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.84,2020-06-08
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.83,2020-03-16,0.83,2020-06-08
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.11,0.79,2020-03-25,0.94,2020-06-08
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.94,0.84,2020-03-15,0.99,2020-06-08
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.86,2020-03-17,1.01,2020-06-08
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.9,2020-06-08
-29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.8,2020-06-08
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.17,0.84,2020-03-16,0.98,2020-06-08
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.37,0.73,2020-03-15,0.89,2020-06-08
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.93,2020-06-08
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.93,2020-06-08
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.32,0.98,2020-03-21,1.03,2020-06-08
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.34,0.89,2020-03-22,0.98,2020-06-08
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.95,2020-03-23,1.0,2020-06-08
-37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.93,2020-06-08
 4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.26,0.99,2020-03-21,1.07,2020-06-23
 5,"Alameda County, California",6001.0,US-CA-Alameda,1.32,0.81,2020-03-23,1.01,2020-06-23
 6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.27,1.01,2020-03-13,1.08,2020-06-23
@@ -815,207 +1083,105 @@
 35,"Harris County, Texas",48201.0,US-TX-Harris,1.26,0.93,2020-03-22,1.12,2020-06-23
 36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.15,0.94,2020-03-23,1.09,2020-06-23
 37,"King County, Washington",53033.0,US-WA-King,1.86,0.89,2020-03-05,0.99,2020-06-23
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.0,2020-03-21,1.06,2020-06-14
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.22,0.8,2020-03-23,0.96,2020-06-14
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,1.0,2020-03-17,1.07,2020-06-14
-7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-14
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.56,0.95,2020-03-22,1.06,2020-06-14
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.18,0.66,2020-03-24,0.85,2020-06-14
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.34,0.91,2020-03-23,1.03,2020-06-14
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.33,0.93,2020-03-22,1.05,2020-06-14
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.33,0.76,2020-03-13,0.92,2020-06-14
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.83,2020-03-21,0.98,2020-06-14
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.34,0.99,2020-03-24,1.08,2020-06-14
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.59,0.87,2020-03-14,1.01,2020-06-14
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.74,2020-03-23,0.92,2020-06-14
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.4,0.93,2020-03-16,1.06,2020-06-14
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.96,2020-06-14
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.79,2020-06-14
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.95,2020-06-14
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.77,0.79,2020-03-31,0.91,2020-06-14
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.56,0.86,2020-03-15,0.95,2020-06-14
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.84,2020-03-15,0.86,2020-06-14
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.59,0.83,2020-03-16,0.83,2020-06-14
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.1,0.79,2020-03-25,0.9,2020-06-14
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.92,0.84,2020-03-15,0.99,2020-06-14
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.87,2020-03-17,1.01,2020-06-14
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.84,2020-06-14
-29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.84,2020-06-14
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.18,0.83,2020-03-16,0.92,2020-06-14
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.37,0.73,2020-03-15,0.83,2020-06-14
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.94,2020-06-14
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.18,0.79,2020-03-24,0.93,2020-06-14
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.96,2020-03-21,0.97,2020-06-14
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.36,0.87,2020-03-22,0.93,2020-06-14
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.23,0.94,2020-03-23,0.97,2020-06-14
-37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.98,2020-06-14
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.11,2020-05-29
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.34,0.82,2020-03-23,0.86,2020-05-29
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.98,0.97,2020-03-17,0.97,2020-05-29
-7,"Orange County, California",6059.0,US-CA-Orange,1.23,1.03,2020-03-24,1.09,2020-05-29
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.51,0.97,2020-03-22,1.07,2020-05-29
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.16,0.73,2020-03-24,0.88,2020-05-29
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.3,0.95,2020-03-23,1.06,2020-05-29
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.35,0.92,2020-03-22,1.03,2020-05-29
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.42,0.66,2020-03-02,0.7,2020-05-29
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.44,0.79,2020-03-21,0.94,2020-05-29
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.22,1.07,2020-03-24,1.15,2020-05-29
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.8,0.86,2020-03-11,1.0,2020-05-29
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.48,0.74,2020-03-23,0.92,2020-05-29
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.36,0.86,2020-03-16,1.0,2020-05-29
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.4,0.99,2020-03-15,0.99,2020-05-29
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.92,0.68,2020-03-15,0.85,2020-05-29
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.47,0.84,2020-03-27,0.87,2020-05-29
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.81,0.76,2020-03-31,0.8,2020-05-29
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.6,0.82,2020-03-15,0.85,2020-05-29
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.81,0.84,2020-03-15,0.87,2020-05-29
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.6,0.83,2020-03-15,0.86,2020-05-29
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.13,0.77,2020-03-25,0.81,2020-05-29
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.97,0.85,2020-03-16,1.0,2020-05-29
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.8,0.83,2020-03-17,0.98,2020-05-29
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.78,2020-03-14,0.82,2020-05-29
-29,"New York City County, New York",,US-NY-New York City,5.58,0.78,2020-03-12,0.78,2020-05-29
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.21,0.87,2020-03-15,0.9,2020-05-29
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.74,2020-03-15,0.78,2020-05-29
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.95,2020-03-14,0.95,2020-05-29
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.95,2020-05-29
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.37,0.96,2020-03-21,1.03,2020-05-29
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.38,0.87,2020-03-22,0.98,2020-05-29
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.96,2020-03-23,1.07,2020-05-29
-37,"King County, Washington",53033.0,US-WA-King,2.17,0.82,2020-03-17,0.86,2020-05-29
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.08,2020-06-09
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.24,0.77,2020-03-23,0.92,2020-06-09
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.0,2020-06-09
-7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-09
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.54,0.96,2020-03-22,1.07,2020-06-09
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.19,0.66,2020-03-24,0.85,2020-06-09
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.28,0.93,2020-03-23,1.05,2020-06-09
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.33,0.93,2020-03-22,1.05,2020-06-09
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.34,0.75,2020-03-13,0.89,2020-06-09
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.4,0.83,2020-03-21,0.99,2020-06-09
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.38,1.03,2020-03-24,1.1,2020-06-09
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.87,2020-03-11,1.01,2020-06-09
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.46,0.75,2020-03-23,0.93,2020-06-09
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.36,0.87,2020-03-16,1.01,2020-06-09
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.95,2020-06-09
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.98,0.64,2020-03-14,0.82,2020-06-09
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.85,2020-03-27,0.96,2020-06-09
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.8,2020-03-31,0.92,2020-06-09
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.56,0.86,2020-03-14,1.01,2020-06-09
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.84,2020-06-09
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.83,2020-03-16,0.84,2020-06-09
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.1,0.79,2020-03-25,0.95,2020-06-09
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-15,0.99,2020-06-09
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.86,2020-03-17,1.01,2020-06-09
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.75,2020-03-14,0.91,2020-06-09
-29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.81,2020-06-09
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.17,0.83,2020-03-16,0.98,2020-06-09
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.37,0.73,2020-03-15,0.9,2020-06-09
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.92,2020-03-14,0.93,2020-06-09
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.17,0.78,2020-03-24,0.92,2020-06-09
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.97,2020-03-21,1.01,2020-06-09
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.34,0.88,2020-03-22,0.97,2020-06-09
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.23,0.94,2020-03-23,0.98,2020-06-09
-37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.94,2020-06-09
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.01,2020-03-21,1.09,2020-06-06
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.22,0.77,2020-03-23,0.91,2020-06-06
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,0.99,2020-03-17,1.0,2020-06-06
-7,"Orange County, California",6059.0,US-CA-Orange,1.25,1.03,2020-03-24,1.1,2020-06-06
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.51,0.97,2020-03-22,1.07,2020-06-06
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.14,0.69,2020-03-24,0.87,2020-06-06
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.31,0.96,2020-03-23,1.06,2020-06-06
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.34,0.95,2020-03-22,1.06,2020-06-06
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.44,0.8,2020-03-03,0.91,2020-06-06
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.37,0.82,2020-03-21,0.98,2020-06-06
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.22,1.05,2020-03-24,1.11,2020-06-06
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.78,0.88,2020-03-11,1.02,2020-06-06
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.45,0.75,2020-03-23,0.93,2020-06-06
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.33,0.86,2020-03-16,1.01,2020-06-06
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.39,0.98,2020-03-16,0.98,2020-06-06
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.95,0.64,2020-03-14,0.82,2020-06-06
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.85,2020-03-27,0.93,2020-06-06
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.76,0.8,2020-03-31,0.88,2020-06-06
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.58,0.81,2020-03-15,0.95,2020-06-06
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.83,2020-03-15,0.83,2020-06-06
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.58,0.83,2020-03-16,0.83,2020-06-06
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.11,0.79,2020-03-25,0.93,2020-06-06
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.87,0.84,2020-03-15,0.99,2020-06-06
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.75,0.87,2020-03-17,1.01,2020-06-06
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.75,2020-03-14,0.89,2020-06-06
-29,"New York City County, New York",,US-NY-New York City,5.59,0.79,2020-03-12,0.8,2020-06-06
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.19,0.84,2020-03-16,0.97,2020-06-06
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.88,2020-06-06
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.93,2020-03-14,0.93,2020-06-06
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.94,2020-06-06
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.32,0.98,2020-03-21,1.04,2020-06-06
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.34,0.89,2020-03-22,0.99,2020-06-06
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.95,2020-03-23,1.01,2020-06-06
-37,"King County, Washington",53033.0,US-WA-King,2.22,0.83,2020-03-16,0.88,2020-06-06
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.24,1.0,2020-03-21,1.07,2020-06-13
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.21,0.78,2020-03-23,0.94,2020-06-13
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.96,1.0,2020-03-17,1.01,2020-06-13
-7,"Orange County, California",6059.0,US-CA-Orange,1.44,1.03,2020-03-24,1.1,2020-06-13
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.55,0.96,2020-03-22,1.06,2020-06-13
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.18,0.66,2020-03-24,0.85,2020-06-13
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.34,0.91,2020-03-23,1.03,2020-06-13
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.32,0.94,2020-03-22,1.06,2020-06-13
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.34,0.75,2020-03-13,0.92,2020-06-13
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.39,0.83,2020-03-21,0.98,2020-06-13
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.36,1.0,2020-03-24,1.09,2020-06-13
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.77,0.88,2020-03-11,1.02,2020-06-13
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.47,0.74,2020-03-23,0.92,2020-06-13
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.4,0.93,2020-03-16,1.06,2020-06-13
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.37,0.94,2020-03-17,0.95,2020-06-13
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.97,0.64,2020-03-14,0.79,2020-06-13
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.46,0.84,2020-03-27,0.95,2020-06-13
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.78,0.79,2020-03-31,0.9,2020-06-13
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.56,0.86,2020-03-15,0.96,2020-06-13
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.79,0.84,2020-03-15,0.84,2020-06-13
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.59,0.83,2020-03-16,0.82,2020-06-13
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.09,0.79,2020-03-25,0.9,2020-06-13
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.93,0.84,2020-03-15,0.99,2020-06-13
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.76,0.87,2020-03-17,1.01,2020-06-13
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.02,0.75,2020-03-14,0.88,2020-06-13
-29,"New York City County, New York",,US-NY-New York City,5.57,0.8,2020-03-12,0.79,2020-06-13
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.18,0.83,2020-03-16,0.95,2020-06-13
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.38,0.73,2020-03-15,0.87,2020-06-13
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.93,2020-03-14,0.93,2020-06-13
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.17,0.78,2020-03-24,0.92,2020-06-13
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.35,0.96,2020-03-21,0.97,2020-06-13
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.35,0.88,2020-03-22,0.94,2020-06-13
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.23,0.94,2020-03-23,0.97,2020-06-13
-37,"King County, Washington",53033.0,US-WA-King,2.29,0.84,2020-03-16,0.98,2020-06-13
-4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,1.01,2020-03-21,1.11,2020-05-30
-5,"Alameda County, California",6001.0,US-CA-Alameda,1.34,0.82,2020-03-23,0.87,2020-05-30
-6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.98,0.98,2020-03-17,0.98,2020-05-30
-7,"Orange County, California",6059.0,US-CA-Orange,1.21,1.02,2020-03-24,1.1,2020-05-30
-8,"Riverside County, California",6065.0,US-CA-Riverside,1.53,0.96,2020-03-22,1.06,2020-05-30
-9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.16,0.73,2020-03-24,0.89,2020-05-30
-10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.31,0.96,2020-03-23,1.06,2020-05-30
-11,"San Diego County, California",6073.0,US-CA-San Diego,1.35,0.94,2020-03-22,1.05,2020-05-30
-12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,2.42,0.66,2020-03-02,0.72,2020-05-30
-13,"Broward County, Florida",12011.0,US-FL-Broward,1.43,0.8,2020-03-21,0.95,2020-05-30
-14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.23,1.07,2020-03-24,1.15,2020-05-30
-15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,3.8,0.87,2020-03-11,1.01,2020-05-30
-16,"Orange County, Florida",12095.0,US-FL-Orange,1.49,0.74,2020-03-23,0.92,2020-05-30
-17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.36,0.86,2020-03-16,1.0,2020-05-30
-18,"Cook County, Illinois",17031.0,US-IL-Cook,3.4,0.98,2020-03-15,0.99,2020-05-30
-19,"Orleans County, Louisiana",,US-LA-Orleans,1.92,0.68,2020-03-15,0.86,2020-05-30
-20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.47,0.84,2020-03-27,0.88,2020-05-30
-21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.81,0.76,2020-03-31,0.81,2020-05-30
-22,"Wayne County, Michigan",26163.0,US-MI-Wayne,3.59,0.82,2020-03-15,0.87,2020-05-30
-23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,3.81,0.84,2020-03-15,0.89,2020-05-30
-24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.6,0.83,2020-03-15,0.88,2020-05-30
-25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,2.13,0.77,2020-03-25,0.83,2020-05-30
-26,"Clark County, Nevada",32003.0,US-NV-Clark,1.96,0.85,2020-03-16,1.0,2020-05-30
-27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.77,0.86,2020-03-17,1.01,2020-05-30
-28,"Nassau County, New York",36059.0,US-NY-Nassau,4.01,0.78,2020-03-14,0.83,2020-05-30
-29,"New York City County, New York",,US-NY-New York City,5.59,0.78,2020-03-12,0.78,2020-05-30
-30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.21,0.87,2020-03-15,0.92,2020-05-30
-31,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.74,2020-03-15,0.8,2020-05-30
-32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.79,0.94,2020-03-14,0.94,2020-05-30
-33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.16,0.78,2020-03-24,0.95,2020-05-30
-34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.37,0.95,2020-03-21,1.01,2020-05-30
-35,"Harris County, Texas",48201.0,US-TX-Harris,1.37,0.87,2020-03-22,0.98,2020-05-30
-36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.22,0.96,2020-03-23,1.07,2020-05-30
-37,"King County, Washington",53033.0,US-WA-King,2.17,0.82,2020-03-17,0.87,2020-05-30
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.23,1.0,2020-03-21,1.07,2020-06-24
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.39,0.79,2020-03-23,1.06,2020-06-24
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.27,1.01,2020-03-13,1.09,2020-06-24
+7,"Orange County, California",6059.0,US-CA-Orange,1.29,1.05,2020-03-24,1.11,2020-06-24
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.4,0.97,2020-03-22,1.11,2020-06-24
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.11,0.71,2020-03-24,1.02,2020-06-24
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.26,0.88,2020-03-23,1.08,2020-06-24
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.28,0.92,2020-03-22,1.06,2020-06-24
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.23,0.73,2020-03-09,0.97,2020-06-24
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.31,0.86,2020-03-21,1.1,2020-06-24
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.38,1.0,2020-03-24,1.12,2020-06-24
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.77,0.87,2020-03-14,1.1,2020-06-24
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.46,0.8,2020-03-23,1.1,2020-06-24
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.83,0.92,2020-03-10,1.12,2020-06-24
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.95,2020-03-13,0.95,2020-06-24
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.69,0.67,2020-03-12,0.93,2020-06-24
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.33,0.81,2020-03-29,1.01,2020-06-24
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.71,0.79,2020-03-31,0.97,2020-06-24
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.89,0.82,2020-03-11,0.97,2020-06-24
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.9,0.84,2020-03-10,0.98,2020-06-24
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.75,0.81,2020-03-14,0.94,2020-06-24
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.92,0.81,2020-03-24,0.94,2020-06-24
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.54,0.87,2020-03-13,1.04,2020-06-24
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.79,0.84,2020-03-17,1.03,2020-06-24
+28,"Nassau County, New York",36059.0,US-NY-Nassau,3.98,0.74,2020-03-12,0.96,2020-06-24
+29,"New York City County, New York",,US-NY-New York City,5.38,0.77,2020-03-09,0.91,2020-06-24
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.35,0.8,2020-03-13,1.03,2020-06-24
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.69,2020-03-16,0.92,2020-06-24
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.87,2020-03-15,1.04,2020-06-24
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.3,0.86,2020-03-24,1.11,2020-06-24
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.32,0.96,2020-03-21,1.1,2020-06-24
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.27,0.94,2020-03-22,1.11,2020-06-24
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.17,0.93,2020-03-23,1.08,2020-06-24
+37,"King County, Washington",53033.0,US-WA-King,1.85,0.88,2020-03-05,1.06,2020-06-24
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,0.99,2020-03-21,1.07,2020-06-25
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.36,0.8,2020-03-23,1.07,2020-06-25
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.27,1.01,2020-03-13,1.09,2020-06-25
+7,"Orange County, California",6059.0,US-CA-Orange,1.28,1.05,2020-03-24,1.11,2020-06-25
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.4,0.97,2020-03-22,1.11,2020-06-25
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.11,0.71,2020-03-24,1.02,2020-06-25
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.26,0.89,2020-03-23,1.08,2020-06-25
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.27,0.92,2020-03-22,1.07,2020-06-25
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.23,0.73,2020-03-09,0.98,2020-06-25
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.31,0.86,2020-03-21,1.1,2020-06-25
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.32,1.04,2020-03-24,1.12,2020-06-25
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.77,0.87,2020-03-14,1.11,2020-06-25
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.43,0.81,2020-03-23,1.11,2020-06-25
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.83,0.92,2020-03-10,1.12,2020-06-25
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.95,2020-03-13,0.96,2020-06-25
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.69,0.67,2020-03-12,0.92,2020-06-25
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.33,0.81,2020-03-29,1.02,2020-06-25
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.71,0.79,2020-03-31,0.99,2020-06-25
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.89,0.82,2020-03-11,0.98,2020-06-25
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.9,0.84,2020-03-10,0.99,2020-06-25
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.75,0.81,2020-03-14,0.95,2020-06-25
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.92,0.8,2020-03-24,0.95,2020-06-25
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.53,0.87,2020-03-13,1.05,2020-06-25
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.78,0.84,2020-03-17,1.03,2020-06-25
+28,"Nassau County, New York",36059.0,US-NY-Nassau,3.98,0.74,2020-03-12,0.96,2020-06-25
+29,"New York City County, New York",,US-NY-New York City,5.39,0.77,2020-03-09,0.92,2020-06-25
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.35,0.8,2020-03-13,1.04,2020-06-25
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.69,2020-03-16,0.93,2020-06-25
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.87,2020-03-15,1.05,2020-06-25
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.29,0.88,2020-03-24,1.11,2020-06-25
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.31,0.96,2020-03-21,1.1,2020-06-25
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.27,0.94,2020-03-22,1.11,2020-06-25
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.15,0.94,2020-03-23,1.09,2020-06-25
+37,"King County, Washington",53033.0,US-WA-King,1.86,0.88,2020-03-05,1.06,2020-06-25
+4,"Maricopa County, Arizona",4013.0,US-AZ-Maricopa,1.25,0.99,2020-03-21,1.07,2020-06-25
+5,"Alameda County, California",6001.0,US-CA-Alameda,1.36,0.8,2020-03-23,1.07,2020-06-25
+6,"Los Angeles County, California",6037.0,US-CA-Los Angeles,2.27,1.01,2020-03-13,1.09,2020-06-25
+7,"Orange County, California",6059.0,US-CA-Orange,1.28,1.05,2020-03-24,1.11,2020-06-25
+8,"Riverside County, California",6065.0,US-CA-Riverside,1.4,0.97,2020-03-22,1.11,2020-06-25
+9,"Sacramento County, California",6067.0,US-CA-Sacramento,1.11,0.71,2020-03-24,1.02,2020-06-25
+10,"San Bernardino County, California",6071.0,US-CA-San Bernardino,1.26,0.89,2020-03-23,1.08,2020-06-25
+11,"San Diego County, California",6073.0,US-CA-San Diego,1.27,0.92,2020-03-22,1.07,2020-06-25
+12,"Santa Clara County, California",6085.0,US-CA-Santa Clara,1.23,0.73,2020-03-09,0.98,2020-06-25
+13,"Broward County, Florida",12011.0,US-FL-Broward,1.31,0.86,2020-03-21,1.1,2020-06-25
+14,"Hillsborough County, Florida",12057.0,US-FL-Hillsborough,1.32,1.04,2020-03-24,1.12,2020-06-25
+15,"Miami-Dade County, Florida",12086.0,US-FL-Miami-Dade,2.77,0.87,2020-03-14,1.11,2020-06-25
+16,"Orange County, Florida",12095.0,US-FL-Orange,1.43,0.81,2020-03-23,1.11,2020-06-25
+17,"Palm Beach County, Florida",12099.0,US-FL-Palm Beach,1.83,0.92,2020-03-10,1.12,2020-06-25
+18,"Cook County, Illinois",17031.0,US-IL-Cook,3.56,0.95,2020-03-13,0.96,2020-06-25
+19,"Orleans County, Louisiana",,US-LA-Orleans,1.69,0.67,2020-03-12,0.92,2020-06-25
+20,"Middlesex County, Massachusetts",25017.0,US-MA-Middlesex,2.33,0.81,2020-03-29,1.02,2020-06-25
+21,"Suffolk County, Massachusetts",25025.0,US-MA-Suffolk,1.71,0.79,2020-03-31,0.99,2020-06-25
+22,"Wayne County, Michigan",26163.0,US-MI-Wayne,2.89,0.82,2020-03-11,0.98,2020-06-25
+23,"Bergen County, New Jersey",34003.0,US-NJ-Bergen,2.9,0.84,2020-03-10,0.99,2020-06-25
+24,"Essex County, New Jersey",34013.0,US-NJ-Essex,3.75,0.81,2020-03-14,0.95,2020-06-25
+25,"Hudson County, New Jersey",34017.0,US-NJ-Hudson,1.92,0.8,2020-03-24,0.95,2020-06-25
+26,"Clark County, Nevada",32003.0,US-NV-Clark,1.53,0.87,2020-03-13,1.05,2020-06-25
+27,"Washoe County, Nevada",32031.0,US-NV-Washoe,2.78,0.84,2020-03-17,1.03,2020-06-25
+28,"Nassau County, New York",36059.0,US-NY-Nassau,3.98,0.74,2020-03-12,0.96,2020-06-25
+29,"New York City County, New York",,US-NY-New York City,5.39,0.77,2020-03-09,0.92,2020-06-25
+30,"Suffolk County, New York",36103.0,US-NY-Suffolk,3.35,0.8,2020-03-13,1.04,2020-06-25
+31,"Westchester County, New York",36119.0,US-NY-Westchester,4.41,0.69,2020-03-16,0.93,2020-06-25
+32,"Philadelphia County, Pennsylvania",42101.0,US-PA-Philadelphia,3.78,0.87,2020-03-15,1.05,2020-06-25
+33,"Bexar County, Texas",48029.0,US-TX-Bexar,1.29,0.88,2020-03-24,1.11,2020-06-25
+34,"Dallas County, Texas",48113.0,US-TX-Dallas,1.31,0.96,2020-03-21,1.1,2020-06-25
+35,"Harris County, Texas",48201.0,US-TX-Harris,1.27,0.94,2020-03-22,1.11,2020-06-25
+36,"Tarrant County, Texas",48439.0,US-TX-Tarrant,1.15,0.94,2020-03-23,1.09,2020-06-25
+37,"King County, Washington",53033.0,US-WA-King,1.86,0.88,2020-03-05,1.06,2020-06-25
