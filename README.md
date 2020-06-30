@@ -38,7 +38,7 @@ Alternative JSON files containing identical policy data to the CSV files are pro
 ‘updated’: The timestamp for when this data was entered
 
 # Sample Data for Exemplar County X
-‘testing’: True                                                                   County X has active public testing
+‘testing’: True                   County X has active public testing
 
 ‘testing_date’: 2020-03-21                                                        Testing available since March 21, 2020
 
