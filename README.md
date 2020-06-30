@@ -16,15 +16,25 @@ Alternative JSON files containing identical policy data to the CSV files are pro
 
 # Explanation of Dataset Variables
 ‘fips’: County FIPS geographic code
+
 ‘testing’: Binary coding whether COVID testing is publicly available in the county to any resident
+
 ‘school’: Binary coding whether all schools are closed in the county
+
 ‘shelter’: Binary coding whether the county has an active shelter-in-place order
+
 ‘shelter_enforcement’: Binary coding whether the shelter-in-place order is being enforced
+
 ‘work’: Binary coding whether all “non-essential workplaces” are closed in the county
+
 ‘event’:  Binary coding whether public events and gatherings of a certain size are restricted
+
 ‘transport’: Binary coding whether any public transport system has been closed down
+
 ‘X_date’: For each policy binary, the date on which it was first implemented
+
 ‘X_URL’: For each policy binary, the source URL with evidence of the nature and date of the policy
+
 ‘updated’: The timestamp for when this data was entered
 
 # Sample Data for Exemplar County X
