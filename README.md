@@ -39,8 +39,11 @@ Alternative JSON files containing identical policy data to the CSV files are pro
 
 # Sample Data for Exemplar County X
 ‘testing’: True                                                                   County X has active public testing
+
 ‘testing_date’: 2020-03-21                                                        Testing available since March 21, 2020
+
 ‘testing_URL’: https://voiceofoc.org/2020/03/1967086/                             Evidence for testing availability
+
 ‘updated’: 2020-04-10 09:00:00                                                    Data entered at 9AM on April 10, 2020
 
 # Detailed Methods
