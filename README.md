@@ -20,7 +20,9 @@ Case counts displayed by county were obtained from the [New York Times dataset](
 
 Demographic and geographic information about  states and counties were obtained from the [United States Census](https://www.census.gov/).
 
-County R estimates are a subset of the estimates made by the models created by Youyang Gu [here](https://github.com/youyanggu/covid19_projections).
+County COVID R estimates are a subset of the estimates made by the models created by Youyang Gu [here](https://github.com/youyanggu/covid19_projections).
+
+County Election Returns are from: MIT Election Data and Science Lab, 2018, "County Presidential Election Returns 2000-2016", https://doi.org/10.7910/DVN/VOQCHQ, Harvard Dataverse.
 
 License and Warranty Disclaimer
 -------
