@@ -10,7 +10,7 @@ Data Sources
 -------
 Data on COVID-19 policies enacted at the local level was manually researched, entered into a web form, and validated in a crowdsourcing approach organized by [Hikma Health](https://www.hikmahealth.org/). 
 
-The US County Policies Dataset currently includes policy data from over 1,100 US counties, comprising over 250 million residents. Recommended citation for this dataset: Senan Ebrahim, Cray Noah, Henry Ashworth, Ali Ebrahim, Adesh Kadambi, Tara Pattilachan, Dani Kiyasseh, Melecia Wright, Eliza Nguyen, and Hassaan Ebrahim (2020). COVID-19 US County Policies, Hikma Health. Data use policy: Apache 2.0 License.
+The US County Policies Dataset currently includes policy data from over 1,200 US counties, comprising over 250 million residents. Recommended citation for this dataset: Cray Noah, Senan Ebrahim, Henry Ashworth, Ali Ebrahim, Adesh Kadambi, Tara Pattilachan, Dani Kiyasseh, Melecia Wright, Eliza Nguyen, and Hassaan Ebrahim (2020). COVID-19 US County Policies, Hikma Health. Data use policy: Apache 2.0 License.
 
 The Indigenous Communities Policy Dataset currently includes more detailed policy data from over 100 indigenous communities in the United States. Recommended citation for this dataset: Dana Vigue, Eliza Nguyen, Jessica Redmond, Arpi Tavil-Shatelyan, Anna Buford, John Laydon, Senan Ebrahim, Jaclyn Saitta, John Poppe, Tara Pattilachan, Darius Onul and Esrah Du (2020). COVID-19 Indigenous Communities Policies, Hikma Health. Data use policy: Apache 2.0 License.
 
