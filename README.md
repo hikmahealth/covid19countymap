@@ -2,7 +2,7 @@
 Overview
 --------
 
-This project contains a crowdsourced dataset of local policies enacted in response to COVID-19, broken down by local community in the United States. A visual map interface to the data is available [here](https://hikmahealth.org/map). All of the structured data can be downloaded from the [`gh-pages` branch](https://github.com/hikmahealth/covid19countymap/tree/gh-pages), while all of the code to process the data is available as [Python notebooks](https://github.com/hikmahealth/covid19countymap/tree/master/notebooks).
+This project contains a crowdsourced dataset of local policies enacted in response to COVID-19, broken down by local community in the United States. A visual map interface to the data is available [here](https://hikmahealth.org/map). All of the structured data can be downloaded from the [`gh-pages` branch](https://github.com/hikmahealth/covid19countymap/tree/gh-pages), while all of the code to process the data is available as [Python notebooks](https://github.com/hikmahealth/covid19countymap/tree/master/notebooks). You can read our preliminary analysis of the dataset published [here](https://www.jmir.org/2020/12/e24614).
 
 [![Map Screenshot](HikmaLocalMap.png)](https://hikmahealth.org/map)
 
