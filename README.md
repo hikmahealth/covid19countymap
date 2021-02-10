@@ -31,6 +31,10 @@ Alternative JSON files containing identical policy data to the CSV files are pro
 
 ‘transport’: Binary coding whether any public transport system has been closed down
 
+‘work_2’: Binary coding whether all “non-essential workplaces” are closed in the county at a later timepoint than 'work'
+
+‘shelter_2’: Binary coding whether the county has an active shelter-in-place order at a later timepoint than 'shelter'
+
 ‘X_date’: For each policy binary, the date on which it was first implemented
 
 ‘X_URL’: For each policy binary, the source URL with evidence of the nature and date of the policy
