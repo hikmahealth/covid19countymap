@@ -14,7 +14,9 @@ The US County Policies Dataset currently includes over 2,700 observations of pol
 
 `Cray Noah, Senan Ebrahim, Henry Ashworth, Ali Ebrahim, Adesh Kadambi, Tara Pattilachan, Dani Kiyasseh, Melecia Wright, Eliza Nguyen, and Hassaan Ebrahim (2020). COVID-19 US County Policies, Hikma Health. Data use policy: Apache 2.0 License.`
 
-The Indigenous Communities Policy Dataset currently includes more detailed policy data from over 150 indigenous communities in the United States. Recommended citation for this dataset: Dana Vigue, Eliza Nguyen, Jessica Redmond, Arpi Tavil-Shatelyan, Anna Buford, John Laydon, Senan Ebrahim, Jaclyn Saitta, John Poppe, Tara Pattilachan, Darius Onul and Esrah Du (2020). COVID-19 Indigenous Communities Policies, Hikma Health. Data use policy: Apache 2.0 License.
+The Indigenous Communities Policy Dataset currently includes more detailed policy data from over 150 indigenous communities in the United States. Recommended citation for this dataset: 
+
+`Dana Vigue, Eliza Nguyen, Jessica Redmond, Arpi Tavil-Shatelyan, Anna Buford, John Laydon, Senan Ebrahim, Jaclyn Saitta, John Poppe, Tara Pattilachan, Darius Onul and Esrah Du (2020). COVID-19 Indigenous Communities Policies, Hikma Health. Data use policy: Apache 2.0 License.`
 
 State policy data was obtained from the following [report](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/#policyactions) by the Kaiser Family Foundation.
 
